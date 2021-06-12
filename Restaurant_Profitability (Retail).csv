@@ -1,0 +1,1045 @@
+City,Capacity_Score,Area,Age,Food_Diversity_Score,Type,Price_Range,Profit,Lat,Long
+Sacramento,2,Downtown,Developed,9,Cafeteria,2,40147,38.5717,-121.4868
+Sacramento,5,Downtown,Developed,2,Cafeteria,3,68297,38.584,-121.5062
+San Diego,2,Suburbs,Developed,6,Banquet,5,68691,32.6291,-117.094
+Sacramento,6,Downtown,Well-Known,1,Full Service Restaurant,1,57174,38.5802,-121.479
+Los Angeles,5,Downtown,Recent,10,Banquet,2,81022,34.0445,-118.2335
+San Francisco,6,Suburbs,Developed,9,Banquet,4,100153,37.6918,-122.4523
+Los Angeles,6,Suburbs,Recent,4,Full Service Restaurant,1,90486,34.0999,-118.3589
+Sacramento,1,Suburbs,Well-Known,5,Banquet,4,102545,38.4748,-121.5411
+Sacramento,4,Downtown,Well-Known,6,Banquet,5,136015,38.5844,-121.4802
+Los Angeles,2,Downtown,Developed,8,Cafeteria,5,76796,34.0273,-118.2399
+Sacramento,6,Downtown,Well-Known,5,Banquet,5,144938,38.5922,-121.4881
+Sacramento,6,Downtown,Recent,3,Full Service Restaurant,3,102355,38.5923,-121.5053
+San Francisco,1,Downtown,Developed,6,Cafeteria,1,34622,37.8035,-122.3985
+Sacramento,7,Downtown,Recent,9,Cafeteria,5,114059,38.5918,-121.5085
+San Francisco,2,Suburbs,Well-Known,1,Full Service Restaurant,5,117751,37.8479,-122.5232
+San Francisco,6,Suburbs,Recent,9,Full Service Restaurant,5,98261,37.6867,-122.4343
+Sacramento,7,Suburbs,Well-Known,6,Full Service Restaurant,4,159635,38.5032,-121.5963
+Los Angeles,4,Downtown,Developed,6,Banquet,1,74690,34.0507,-118.2249
+San Francisco,2,Suburbs,Developed,9,Cafeteria,3,57925,37.8595,-122.5162
+Sacramento,1,Suburbs,Well-Known,6,Banquet,1,43725,38.6855,-121.4685
+Los Angeles,3,Suburbs,Well-Known,10,Banquet,5,104505,33.9522,-118.1676
+San Francisco,6,Downtown,Well-Known,9,Full Service Restaurant,3,128494,37.7878,-122.4163
+San Francisco,6,Suburbs,Developed,8,Full Service Restaurant,1,118351,37.8262,-122.2631
+Sacramento,2,Suburbs,Recent,8,Cafeteria,4,31358,38.6873,-121.4857
+San Diego,2,Suburbs,Well-Known,5,Cafeteria,5,97832,32.6156,-117.2119
+San Diego,2,Downtown,Well-Known,1,Full Service Restaurant,3,98659,32.7248,-117.169
+Sacramento,7,Suburbs,Recent,6,Full Service Restaurant,4,114307,38.4678,-121.5037
+San Diego,2,Downtown,Well-Known,9,Full Service Restaurant,4,109134,32.7196,-117.1525
+San Diego,2,Downtown,Recent,10,Cafeteria,1,42062,32.709,-117.1549
+Sacramento,6,Suburbs,Well-Known,7,Cafeteria,5,132804,38.4749,-121.4424
+Los Angeles,2,Suburbs,Well-Known,8,Cafeteria,4,79600,34.0565,-118.1151
+Los Angeles,4,Suburbs,Well-Known,3,Banquet,4,122898,34.0606,-118.3788
+Sacramento,3,Suburbs,Well-Known,8,Banquet,2,65257,38.505,-121.3875
+Los Angeles,7,Downtown,Well-Known,8,Banquet,2,126023,34.0628,-118.2435
+Sacramento,6,Suburbs,Developed,8,Cafeteria,2,99996,38.6431,-121.3793
+Los Angeles,4,Suburbs,Well-Known,6,Full Service Restaurant,1,94902,34.1472,-118.2876
+San Diego,4,Suburbs,Well-Known,10,Cafeteria,3,70566,32.6086,-117.1757
+Los Angeles,3,Downtown,Well-Known,3,Banquet,3,91121,34.0453,-118.2141
+San Diego,7,Suburbs,Developed,10,Cafeteria,3,91873,32.7437,-117.291
+San Diego,6,Suburbs,Well-Known,1,Banquet,5,102530,32.7732,-117.2762
+San Diego,5,Downtown,Developed,5,Full Service Restaurant,1,102853,32.7287,-117.1701
+San Diego,6,Suburbs,Well-Known,6,Cafeteria,2,86591,32.8179,-117.2126
+San Francisco,2,Downtown,Well-Known,1,Banquet,5,110197,37.7991,-122.4183
+Los Angeles,7,Suburbs,Recent,8,Banquet,2,126043,33.9891,-118.1272
+Los Angeles,4,Suburbs,Developed,6,Banquet,3,83270,34.043,-118.3818
+San Francisco,3,Suburbs,Recent,1,Full Service Restaurant,5,68216,37.6813,-122.3918
+Los Angeles,4,Suburbs,Developed,7,Full Service Restaurant,5,105404,34.0225,-118.38
+Los Angeles,4,Downtown,Developed,3,Cafeteria,2,73603,34.0418,-118.2111
+Los Angeles,7,Suburbs,Well-Known,5,Cafeteria,4,107457,34.0871,-118.1239
+Los Angeles,1,Downtown,Well-Known,3,Cafeteria,4,79107,34.0178,-118.2695
+Los Angeles,7,Downtown,Developed,3,Full Service Restaurant,4,124314,34.0184,-118.2726
+San Diego,1,Downtown,Recent,3,Full Service Restaurant,5,100166,32.7284,-117.1526
+San Francisco,5,Downtown,Recent,7,Cafeteria,1,61336,37.8094,-122.4053
+Sacramento,6,Suburbs,Developed,1,Banquet,4,57562,38.5807,-121.3507
+Sacramento,5,Suburbs,Developed,1,Banquet,1,43329,38.5589,-121.6357
+Los Angeles,6,Downtown,Well-Known,2,Full Service Restaurant,1,63782,34.0232,-118.2148
+San Francisco,1,Suburbs,Developed,5,Cafeteria,1,42527,37.8468,-122.5294
+Los Angeles,5,Downtown,Developed,4,Banquet,4,122970,34.034,-118.2845
+San Francisco,2,Downtown,Developed,8,Cafeteria,4,72124,37.8054,-122.3844
+Sacramento,3,Downtown,Well-Known,4,Full Service Restaurant,4,124785,38.5715,-121.4719
+Los Angeles,2,Downtown,Well-Known,8,Banquet,1,44558,34.0127,-118.2281
+Sacramento,4,Downtown,Well-Known,6,Full Service Restaurant,5,155963,38.5819,-121.5207
+Los Angeles,1,Downtown,Recent,3,Banquet,5,82483,34.04,-118.2073
+Los Angeles,5,Downtown,Well-Known,5,Full Service Restaurant,2,109347,34.0711,-118.2615
+San Francisco,7,Suburbs,Recent,4,Banquet,5,78352,37.8854,-122.3105
+Los Angeles,5,Downtown,Developed,9,Banquet,1,76019,34.0513,-118.2093
+San Francisco,7,Suburbs,Developed,9,Cafeteria,5,91239,37.687,-122.4527
+San Diego,4,Suburbs,Developed,6,Cafeteria,1,65475,32.7133,-117.2958
+San Francisco,3,Suburbs,Developed,10,Banquet,3,78472,37.6922,-122.4671
+San Diego,5,Suburbs,Recent,7,Full Service Restaurant,3,91634,32.8259,-117.1684
+Sacramento,6,Downtown,Recent,1,Full Service Restaurant,2,73284,38.5902,-121.5165
+Sacramento,4,Downtown,Developed,1,Full Service Restaurant,5,95693,38.6023,-121.4923
+San Francisco,6,Suburbs,Developed,2,Full Service Restaurant,1,67573,37.6868,-122.3469
+San Francisco,4,Suburbs,Developed,1,Full Service Restaurant,4,86437,37.8019,-122.5479
+San Diego,6,Downtown,Developed,8,Full Service Restaurant,4,168367,32.7025,-117.155
+San Francisco,5,Downtown,Recent,2,Cafeteria,2,50534,37.7902,-122.3791
+Los Angeles,4,Downtown,Recent,3,Banquet,4,102720,34.0687,-118.226
+Sacramento,5,Suburbs,Recent,3,Cafeteria,3,57075,38.606,-121.6337
+Los Angeles,4,Downtown,Recent,1,Cafeteria,2,50413,34.015,-118.2213
+Los Angeles,1,Downtown,Recent,2,Full Service Restaurant,4,99913,34.073,-118.2581
+Sacramento,4,Suburbs,Developed,2,Cafeteria,1,35022,38.566,-121.3501
+Los Angeles,7,Suburbs,Developed,2,Banquet,4,69833,34.0196,-118.3794
+San Francisco,4,Suburbs,Recent,3,Full Service Restaurant,5,96328,37.6841,-122.4493
+San Diego,4,Downtown,Well-Known,1,Banquet,4,93405,32.6993,-117.1666
+San Francisco,1,Downtown,Developed,4,Banquet,1,39831,37.8003,-122.4209
+San Diego,4,Suburbs,Developed,4,Cafeteria,2,95364,32.7476,-117.2907
+Sacramento,1,Downtown,Developed,3,Banquet,1,47095,38.5961,-121.4714
+Los Angeles,5,Downtown,Recent,10,Full Service Restaurant,5,103000,34.0091,-118.2622
+San Francisco,2,Suburbs,Recent,5,Banquet,2,59221,37.899,-122.4689
+Sacramento,3,Suburbs,Developed,4,Full Service Restaurant,4,106146,38.4991,-121.5984
+Los Angeles,4,Suburbs,Recent,10,Cafeteria,3,46742,34.0376,-118.3818
+Los Angeles,4,Suburbs,Well-Known,8,Banquet,5,122837,34.0197,-118.1141
+Los Angeles,2,Suburbs,Recent,3,Full Service Restaurant,4,76781,33.9833,-118.1307
+San Diego,2,Suburbs,Developed,1,Cafeteria,2,60529,32.8248,-117.1855
+San Francisco,1,Suburbs,Recent,1,Banquet,3,55485,37.8503,-122.5314
+San Diego,6,Suburbs,Well-Known,8,Cafeteria,2,98425,32.6923,-117.0393
+Los Angeles,5,Downtown,Recent,5,Banquet,4,117929,34.0324,-118.2899
+Sacramento,4,Suburbs,Recent,3,Banquet,3,79745,38.4705,-121.4455
+Sacramento,6,Downtown,Well-Known,4,Banquet,4,112438,38.5718,-121.46
+Los Angeles,4,Suburbs,Developed,7,Cafeteria,5,73545,34.1016,-118.1327
+San Diego,2,Suburbs,Well-Known,4,Full Service Restaurant,2,79310,32.8112,-117.1
+San Francisco,7,Downtown,Developed,1,Banquet,3,78438,37.8014,-122.3779
+San Diego,6,Suburbs,Developed,10,Cafeteria,4,81489,32.7361,-117.0377
+San Francisco,1,Downtown,Well-Known,6,Banquet,1,55325,37.7979,-122.4251
+Sacramento,5,Downtown,Well-Known,6,Banquet,5,138924,38.5954,-121.5256
+Los Angeles,5,Suburbs,Recent,6,Cafeteria,5,60159,33.9846,-118.3646
+Sacramento,1,Suburbs,Recent,2,Cafeteria,2,41106,38.4789,-121.5666
+San Francisco,4,Suburbs,Well-Known,4,Cafeteria,2,84607,37.6848,-122.3445
+Sacramento,7,Downtown,Developed,10,Banquet,2,108610,38.5983,-121.4659
+Los Angeles,1,Suburbs,Developed,7,Cafeteria,2,54894,34.1365,-118.1751
+Los Angeles,3,Downtown,Recent,5,Full Service Restaurant,4,125696,34.0021,-118.247
+Sacramento,4,Downtown,Developed,9,Banquet,3,100286,38.5467,-121.4974
+San Francisco,7,Downtown,Developed,1,Full Service Restaurant,1,54462,37.7953,-122.4288
+San Diego,5,Suburbs,Developed,10,Cafeteria,4,64535,32.6214,-117.1013
+Sacramento,7,Downtown,Recent,5,Banquet,3,100666,38.6046,-121.516
+Los Angeles,4,Downtown,Recent,10,Full Service Restaurant,1,84054,34.0595,-118.2055
+San Diego,4,Suburbs,Developed,4,Cafeteria,3,92263,32.8143,-117.2264
+Sacramento,1,Downtown,Well-Known,8,Banquet,4,84725,38.5403,-121.4984
+Los Angeles,4,Downtown,Recent,4,Full Service Restaurant,1,98828,34.0115,-118.2129
+San Diego,3,Downtown,Well-Known,6,Cafeteria,3,65861,32.7161,-117.1445
+Sacramento,4,Downtown,Recent,1,Full Service Restaurant,3,98393,38.5637,-121.4458
+San Diego,2,Suburbs,Recent,8,Full Service Restaurant,4,68456,32.7769,-117.2772
+Los Angeles,3,Downtown,Developed,5,Full Service Restaurant,4,134124,34.0676,-118.2842
+San Francisco,7,Suburbs,Developed,10,Full Service Restaurant,1,113529,37.8188,-122.5467
+Los Angeles,1,Suburbs,Developed,1,Cafeteria,4,61403,33.9739,-118.3569
+San Diego,4,Suburbs,Developed,5,Banquet,5,103466,32.7615,-117.0451
+Sacramento,5,Suburbs,Recent,8,Cafeteria,5,56817,38.6606,-121.3931
+Sacramento,7,Downtown,Recent,7,Cafeteria,2,120014,38.6148,-121.5154
+San Diego,7,Downtown,Well-Known,6,Banquet,5,173437,32.6975,-117.1573
+San Francisco,1,Downtown,Recent,1,Cafeteria,1,47761,37.8167,-122.4085
+Sacramento,6,Downtown,Developed,3,Cafeteria,1,46241,38.5523,-121.5345
+San Francisco,1,Suburbs,Developed,10,Banquet,1,45045,37.9101,-122.3662
+San Francisco,3,Suburbs,Developed,2,Banquet,2,76239,37.8381,-122.2602
+Los Angeles,7,Downtown,Developed,3,Full Service Restaurant,3,108446,34.0755,-118.2745
+Sacramento,5,Downtown,Developed,10,Banquet,1,60261,38.5463,-121.5273
+Los Angeles,4,Downtown,Well-Known,2,Cafeteria,2,54274,34.0708,-118.2843
+San Francisco,1,Suburbs,Recent,10,Cafeteria,2,46536,37.8376,-122.5401
+San Francisco,3,Downtown,Developed,1,Full Service Restaurant,3,101044,37.7991,-122.3692
+Los Angeles,2,Downtown,Developed,3,Cafeteria,3,75093,34.0037,-118.2179
+San Diego,1,Downtown,Well-Known,10,Cafeteria,2,46271,32.6965,-117.1727
+Los Angeles,5,Suburbs,Recent,2,Banquet,1,55572,34.1538,-118.2461
+San Diego,5,Suburbs,Well-Known,1,Full Service Restaurant,4,111932,32.6073,-117.1897
+Los Angeles,6,Suburbs,Recent,7,Cafeteria,2,91006,34.1164,-118.3488
+Los Angeles,2,Suburbs,Recent,7,Banquet,2,52735,34.0173,-118.1127
+San Diego,6,Downtown,Developed,10,Full Service Restaurant,1,106285,32.7298,-117.1913
+Sacramento,3,Suburbs,Well-Known,6,Full Service Restaurant,5,126430,38.5885,-121.64
+Sacramento,1,Downtown,Developed,5,Full Service Restaurant,5,100509,38.5826,-121.5467
+Los Angeles,4,Suburbs,Well-Known,2,Banquet,4,102037,34.1359,-118.1719
+San Diego,7,Downtown,Developed,4,Banquet,3,96920,32.7333,-117.1421
+Los Angeles,3,Downtown,Recent,2,Cafeteria,1,31078,33.9978,-118.2616
+Sacramento,1,Suburbs,Developed,2,Cafeteria,4,64606,38.558,-121.6384
+Los Angeles,6,Suburbs,Recent,9,Cafeteria,3,73493,33.974,-118.3582
+Sacramento,2,Suburbs,Developed,6,Full Service Restaurant,1,59944,38.5194,-121.3677
+Sacramento,2,Suburbs,Developed,8,Banquet,5,61858,38.6221,-121.3584
+Sacramento,3,Suburbs,Developed,7,Cafeteria,5,56267,38.6934,-121.4953
+Sacramento,6,Downtown,Well-Known,4,Cafeteria,1,43007,38.5423,-121.4669
+San Diego,4,Downtown,Developed,4,Full Service Restaurant,5,141982,32.6985,-117.139
+Los Angeles,7,Downtown,Well-Known,9,Full Service Restaurant,2,114429,34.0806,-118.2772
+Los Angeles,1,Suburbs,Well-Known,4,Full Service Restaurant,2,83497,34.1027,-118.3624
+San Diego,5,Downtown,Recent,9,Cafeteria,3,81351,32.7463,-117.187
+San Francisco,7,Downtown,Developed,2,Full Service Restaurant,5,112815,37.8123,-122.4223
+Los Angeles,3,Downtown,Well-Known,10,Cafeteria,4,72358,34.0837,-118.2707
+Sacramento,4,Downtown,Developed,4,Banquet,5,130798,38.6213,-121.5048
+San Diego,2,Suburbs,Recent,10,Banquet,5,46021,32.6241,-117.24
+San Diego,4,Suburbs,Well-Known,1,Banquet,3,80405,32.8182,-117.111
+San Francisco,6,Downtown,Developed,6,Cafeteria,5,124086,37.7722,-122.4153
+Los Angeles,3,Suburbs,Developed,1,Cafeteria,5,50388,34.1415,-118.1812
+San Diego,5,Downtown,Recent,4,Full Service Restaurant,4,130127,32.7349,-117.202
+Los Angeles,3,Suburbs,Developed,9,Full Service Restaurant,3,89908,33.9807,-118.1289
+San Diego,5,Downtown,Developed,3,Cafeteria,1,58872,32.7499,-117.1805
+San Diego,6,Downtown,Well-Known,4,Full Service Restaurant,1,94779,32.7256,-117.2097
+Los Angeles,7,Suburbs,Developed,6,Full Service Restaurant,3,140651,34.1543,-118.2268
+San Francisco,4,Suburbs,Well-Known,3,Banquet,2,86398,37.8424,-122.2619
+Los Angeles,3,Downtown,Well-Known,3,Banquet,1,68476,33.9932,-118.2532
+San Diego,1,Suburbs,Well-Known,3,Banquet,1,54422,32.7906,-117.0665
+Los Angeles,6,Suburbs,Well-Known,2,Cafeteria,3,68978,34.1326,-118.3326
+San Francisco,1,Downtown,Well-Known,6,Cafeteria,4,67768,37.7749,-122.3783
+San Francisco,4,Downtown,Developed,2,Cafeteria,1,42739,37.7765,-122.4257
+San Diego,1,Suburbs,Well-Known,7,Full Service Restaurant,4,107676,32.6407,-117.0679
+Los Angeles,6,Downtown,Developed,2,Cafeteria,1,38784,34.0035,-118.2089
+San Diego,4,Suburbs,Developed,9,Cafeteria,4,61103,32.6294,-117.2503
+San Diego,1,Downtown,Well-Known,3,Banquet,2,63726,32.6858,-117.1953
+San Diego,4,Downtown,Well-Known,3,Full Service Restaurant,1,90582,32.708,-117.2144
+Sacramento,6,Suburbs,Well-Known,5,Banquet,1,77264,38.5654,-121.6417
+Los Angeles,7,Suburbs,Recent,9,Full Service Restaurant,4,116786,34.1209,-118.3484
+San Diego,7,Downtown,Well-Known,1,Full Service Restaurant,4,93815,32.7583,-117.1617
+Sacramento,2,Downtown,Well-Known,10,Full Service Restaurant,1,73371,38.6119,-121.5308
+San Diego,3,Downtown,Well-Known,3,Cafeteria,5,121314,32.7537,-117.19
+Los Angeles,2,Downtown,Developed,7,Banquet,1,59342,34.0115,-118.2947
+San Francisco,7,Downtown,Recent,5,Banquet,3,98876,37.7796,-122.4311
+Los Angeles,6,Downtown,Developed,9,Banquet,2,89989,34.0541,-118.1889
+San Francisco,4,Downtown,Developed,2,Cafeteria,1,32786,37.773,-122.4258
+Los Angeles,6,Downtown,Recent,6,Cafeteria,3,113349,34.0159,-118.3018
+Los Angeles,3,Suburbs,Well-Known,10,Banquet,5,114634,33.9245,-118.2634
+Los Angeles,6,Suburbs,Developed,9,Cafeteria,1,71735,33.9583,-118.1465
+Sacramento,6,Suburbs,Recent,2,Full Service Restaurant,5,62140,38.681,-121.5621
+Sacramento,2,Downtown,Recent,1,Full Service Restaurant,1,74400,38.5324,-121.4976
+San Diego,7,Downtown,Recent,10,Full Service Restaurant,3,132843,32.746,-117.1285
+Los Angeles,7,Downtown,Developed,4,Cafeteria,4,91330,34.0771,-118.2941
+San Diego,1,Downtown,Developed,1,Full Service Restaurant,4,109370,32.6772,-117.1865
+Los Angeles,6,Downtown,Recent,4,Cafeteria,1,59166,34.0644,-118.3064
+San Francisco,1,Downtown,Developed,4,Cafeteria,3,72954,37.7768,-122.4339
+Sacramento,5,Downtown,Recent,10,Full Service Restaurant,1,88296,38.5383,-121.4627
+San Diego,7,Downtown,Developed,3,Banquet,5,109541,32.6735,-117.1627
+Sacramento,6,Downtown,Well-Known,1,Full Service Restaurant,2,78003,38.5385,-121.5267
+San Diego,6,Downtown,Developed,1,Banquet,1,43571,32.7363,-117.2122
+San Diego,2,Downtown,Well-Known,6,Banquet,4,83793,32.6924,-117.209
+San Francisco,7,Downtown,Recent,2,Full Service Restaurant,3,102549,37.7641,-122.3836
+San Diego,6,Suburbs,Recent,4,Banquet,1,90190,32.6181,-117.2309
+Sacramento,4,Downtown,Well-Known,3,Banquet,2,82812,38.5944,-121.5507
+San Francisco,5,Downtown,Well-Known,2,Cafeteria,5,102656,37.7826,-122.4407
+San Diego,1,Downtown,Well-Known,7,Full Service Restaurant,5,135469,32.7139,-117.1137
+Sacramento,4,Suburbs,Developed,7,Full Service Restaurant,3,103633,38.6585,-121.3873
+Los Angeles,7,Suburbs,Recent,2,Full Service Restaurant,3,77876,34.1143,-118.3569
+Los Angeles,4,Suburbs,Developed,5,Cafeteria,1,75077,34.0789,-118.381
+San Diego,6,Suburbs,Developed,10,Banquet,3,112713,32.8158,-117.1013
+San Francisco,7,Downtown,Well-Known,8,Cafeteria,2,99949,37.8288,-122.406
+Sacramento,1,Suburbs,Well-Known,7,Cafeteria,1,23272,38.4632,-121.4695
+San Diego,3,Downtown,Well-Known,6,Cafeteria,2,57356,32.7551,-117.14
+San Diego,6,Downtown,Developed,7,Cafeteria,2,92340,32.6741,-117.1838
+San Diego,6,Suburbs,Well-Known,1,Banquet,2,51877,32.76,-117.0416
+San Diego,2,Suburbs,Recent,9,Full Service Restaurant,2,77805,32.8182,-117.1058
+San Diego,5,Suburbs,Well-Known,4,Cafeteria,2,83425,32.6479,-117.0587
+Los Angeles,7,Downtown,Developed,6,Full Service Restaurant,1,124380,34.0726,-118.3018
+San Diego,3,Suburbs,Recent,6,Banquet,3,66496,32.7292,-117.0317
+Los Angeles,2,Suburbs,Developed,10,Banquet,4,68326,33.9537,-118.1513
+San Diego,3,Downtown,Developed,7,Cafeteria,4,91191,32.7618,-117.1715
+Sacramento,5,Downtown,Well-Known,1,Banquet,3,65496,38.6208,-121.521
+San Francisco,3,Downtown,Well-Known,1,Banquet,3,64153,37.7595,-122.4057
+Los Angeles,3,Suburbs,Well-Known,7,Banquet,4,107850,34.0275,-118.388
+San Diego,1,Suburbs,Well-Known,3,Cafeteria,2,33828,32.7759,-117.0503
+San Francisco,4,Suburbs,Recent,8,Cafeteria,5,63700,37.7773,-122.2505
+Los Angeles,2,Suburbs,Developed,3,Cafeteria,2,60403,34.1547,-118.2087
+Sacramento,4,Downtown,Developed,5,Banquet,5,122113,38.6202,-121.4642
+San Francisco,7,Suburbs,Well-Known,5,Full Service Restaurant,4,129555,37.8516,-122.5329
+San Diego,5,Downtown,Developed,6,Cafeteria,1,70018,32.6838,-117.2066
+Los Angeles,7,Suburbs,Well-Known,8,Cafeteria,2,95307,33.9355,-118.1806
+San Diego,5,Downtown,Recent,7,Banquet,4,101826,32.7646,-117.1688
+Sacramento,6,Downtown,Well-Known,4,Full Service Restaurant,1,85253,38.6263,-121.4944
+San Diego,4,Downtown,Developed,8,Cafeteria,3,86344,32.7589,-117.1374
+San Francisco,4,Suburbs,Recent,4,Cafeteria,4,77799,37.9058,-122.3437
+Los Angeles,2,Downtown,Well-Known,2,Full Service Restaurant,2,92855,34.0448,-118.3151
+San Diego,2,Suburbs,Recent,6,Full Service Restaurant,1,82547,32.8047,-117.0769
+Sacramento,7,Downtown,Well-Known,9,Full Service Restaurant,5,177926,38.5639,-121.4338
+San Diego,1,Downtown,Recent,3,Full Service Restaurant,1,71447,32.6894,-117.2148
+San Francisco,2,Suburbs,Recent,8,Banquet,3,57807,37.8938,-122.4855
+Los Angeles,7,Downtown,Recent,6,Full Service Restaurant,2,130875,34.0902,-118.2104
+San Francisco,3,Suburbs,Recent,9,Banquet,1,68456,37.8008,-122.5518
+San Francisco,5,Suburbs,Developed,4,Banquet,5,102466,37.7741,-122.2498
+San Diego,3,Suburbs,Developed,6,Cafeteria,1,47233,32.6924,-117.0313
+Sacramento,5,Downtown,Developed,8,Full Service Restaurant,4,127923,38.5724,-121.4314
+San Diego,3,Downtown,Recent,9,Banquet,5,90013,32.7628,-117.1867
+Los Angeles,2,Downtown,Recent,2,Banquet,4,101764,34.0778,-118.3007
+San Diego,7,Suburbs,Recent,3,Banquet,5,71233,32.7125,-117.3041
+Sacramento,3,Suburbs,Developed,5,Cafeteria,3,77306,38.4609,-121.4951
+San Diego,6,Suburbs,Recent,4,Full Service Restaurant,2,101252,32.6006,-117.1685
+San Diego,3,Downtown,Recent,6,Banquet,5,82689,32.7005,-117.2215
+Los Angeles,7,Suburbs,Developed,8,Cafeteria,1,99594,34.1539,-118.2921
+San Diego,7,Downtown,Well-Known,3,Full Service Restaurant,2,76314,32.7469,-117.2134
+Sacramento,6,Suburbs,Recent,5,Banquet,4,86146,38.5777,-121.3446
+Los Angeles,3,Suburbs,Developed,10,Full Service Restaurant,1,75304,34.1601,-118.242
+San Diego,3,Suburbs,Recent,3,Cafeteria,3,53170,32.6455,-117.0568
+San Francisco,2,Downtown,Recent,8,Cafeteria,2,45845,37.796,-122.3548
+San Diego,6,Downtown,Well-Known,3,Cafeteria,4,92981,32.6993,-117.2227
+San Diego,6,Suburbs,Developed,8,Full Service Restaurant,3,130590,32.623,-117.0839
+San Diego,5,Downtown,Developed,4,Banquet,5,121699,32.7286,-117.1075
+Los Angeles,6,Downtown,Well-Known,4,Cafeteria,1,60584,34.0784,-118.1935
+San Francisco,6,Downtown,Developed,6,Banquet,1,110780,37.7646,-122.4283
+San Francisco,3,Suburbs,Recent,10,Full Service Restaurant,4,74610,37.9158,-122.3936
+San Diego,1,Suburbs,Recent,4,Cafeteria,3,37857,32.8027,-117.0723
+San Francisco,1,Suburbs,Well-Known,7,Banquet,4,88180,37.8063,-122.5535
+San Francisco,3,Downtown,Developed,9,Banquet,2,77478,37.7602,-122.3792
+San Diego,4,Suburbs,Well-Known,3,Full Service Restaurant,4,132828,32.5994,-117.1599
+San Diego,3,Downtown,Well-Known,2,Banquet,3,65493,32.7226,-117.2262
+San Diego,7,Suburbs,Recent,6,Full Service Restaurant,3,128706,32.6437,-117.2759
+San Diego,3,Downtown,Developed,3,Full Service Restaurant,1,97274,32.7123,-117.2264
+Los Angeles,7,Suburbs,Developed,6,Cafeteria,4,110467,33.9219,-118.2646
+San Diego,2,Downtown,Developed,7,Banquet,2,66741,32.6855,-117.1165
+Los Angeles,6,Downtown,Developed,8,Full Service Restaurant,4,154501,34.03,-118.317
+San Diego,6,Downtown,Recent,4,Full Service Restaurant,1,87011,32.7505,-117.1183
+San Diego,7,Suburbs,Recent,8,Cafeteria,5,97412,32.765,-117.0376
+Sacramento,7,Suburbs,Well-Known,10,Full Service Restaurant,3,137084,38.4791,-121.5759
+Sacramento,6,Downtown,Recent,8,Banquet,2,123913,38.5551,-121.4367
+Sacramento,7,Downtown,Recent,10,Cafeteria,4,102446,38.6217,-121.5259
+Sacramento,1,Suburbs,Developed,9,Full Service Restaurant,1,62337,38.683,-121.4262
+San Diego,5,Suburbs,Well-Known,2,Cafeteria,1,35306,32.6738,-117.2974
+Los Angeles,1,Downtown,Well-Known,7,Banquet,3,62643,34.0954,-118.2752
+Sacramento,1,Suburbs,Well-Known,8,Full Service Restaurant,5,114197,38.5966,-121.6432
+San Francisco,7,Suburbs,Recent,2,Cafeteria,5,31923,37.6738,-122.4225
+San Francisco,6,Downtown,Well-Known,3,Full Service Restaurant,5,138412,37.7746,-122.3576
+Los Angeles,6,Suburbs,Developed,9,Cafeteria,4,98134,33.9234,-118.2765
+San Diego,7,Downtown,Well-Known,1,Cafeteria,3,58705,32.701,-117.2274
+San Francisco,7,Downtown,Recent,1,Full Service Restaurant,3,97385,37.7729,-122.3562
+Los Angeles,3,Suburbs,Developed,7,Full Service Restaurant,3,98630,33.9717,-118.1272
+Los Angeles,4,Suburbs,Developed,3,Banquet,5,91198,33.9884,-118.3782
+Los Angeles,7,Downtown,Recent,1,Banquet,3,83300,33.9989,-118.2994
+San Diego,3,Suburbs,Recent,2,Full Service Restaurant,5,78022,32.7733,-117.29
+San Francisco,1,Suburbs,Well-Known,10,Full Service Restaurant,5,115725,37.8107,-122.2466
+San Francisco,6,Downtown,Developed,10,Full Service Restaurant,3,141582,37.8367,-122.3869
+Los Angeles,5,Downtown,Recent,1,Cafeteria,5,66290,33.9856,-118.2165
+Sacramento,5,Suburbs,Well-Known,3,Cafeteria,4,104068,38.6475,-121.3718
+Los Angeles,5,Downtown,Well-Known,2,Cafeteria,2,52627,33.9851,-118.2762
+San Diego,5,Suburbs,Recent,2,Full Service Restaurant,4,75702,32.833,-117.1956
+Sacramento,5,Suburbs,Well-Known,7,Banquet,3,108361,38.6496,-121.3735
+San Francisco,3,Suburbs,Developed,5,Cafeteria,4,73656,37.9151,-122.3683
+San Diego,4,Downtown,Developed,9,Cafeteria,3,69604,32.7085,-117.1003
+Sacramento,6,Suburbs,Well-Known,8,Full Service Restaurant,2,129586,38.4843,-121.5877
+San Diego,1,Downtown,Developed,2,Banquet,4,97495,32.6878,-117.1087
+Sacramento,6,Downtown,Developed,1,Banquet,3,76195,38.6256,-121.5174
+Los Angeles,3,Suburbs,Well-Known,6,Full Service Restaurant,5,139145,33.9526,-118.146
+San Diego,2,Suburbs,Developed,1,Banquet,5,76204,32.5974,-117.1791
+Sacramento,7,Suburbs,Recent,6,Cafeteria,2,82005,38.5158,-121.6236
+Los Angeles,1,Downtown,Well-Known,7,Full Service Restaurant,2,68303,33.9872,-118.2828
+Sacramento,6,Suburbs,Recent,6,Full Service Restaurant,2,130910,38.5818,-121.646
+San Francisco,3,Suburbs,Developed,4,Banquet,3,98470,37.8618,-122.2686
+Los Angeles,6,Downtown,Recent,2,Cafeteria,5,65634,34.087,-118.2961
+San Diego,4,Suburbs,Well-Known,9,Cafeteria,4,84810,32.5983,-117.1885
+San Francisco,3,Downtown,Well-Known,8,Banquet,5,126297,37.8363,-122.3835
+Los Angeles,2,Suburbs,Developed,1,Full Service Restaurant,2,90707,34.0609,-118.3918
+Los Angeles,1,Downtown,Recent,3,Banquet,2,61599,34.0634,-118.3168
+Sacramento,6,Downtown,Recent,8,Cafeteria,5,108148,38.5811,-121.5601
+San Francisco,5,Downtown,Recent,4,Banquet,3,114235,37.8088,-122.3466
+San Francisco,5,Suburbs,Well-Known,6,Cafeteria,4,110388,37.6711,-122.4055
+Los Angeles,4,Downtown,Recent,3,Full Service Restaurant,5,110205,34.0387,-118.3255
+San Francisco,2,Downtown,Recent,2,Full Service Restaurant,4,110232,37.7643,-122.4426
+Sacramento,5,Suburbs,Developed,8,Cafeteria,1,71669,38.4605,-121.4673
+Los Angeles,7,Downtown,Recent,5,Cafeteria,3,83672,34.0939,-118.2924
+San Francisco,7,Suburbs,Recent,3,Cafeteria,2,46774,37.8063,-122.5564
+Sacramento,4,Downtown,Developed,4,Full Service Restaurant,4,147811,38.5822,-121.428
+San Francisco,1,Suburbs,Recent,9,Full Service Restaurant,4,58493,37.8377,-122.2522
+Sacramento,2,Downtown,Recent,3,Full Service Restaurant,4,101915,38.5733,-121.4271
+Sacramento,4,Downtown,Well-Known,3,Full Service Restaurant,5,152424,38.6292,-121.5102
+Sacramento,6,Downtown,Developed,6,Cafeteria,4,129041,38.5351,-121.5341
+San Diego,6,Downtown,Recent,1,Full Service Restaurant,2,75132,32.6684,-117.2084
+Los Angeles,3,Suburbs,Developed,7,Banquet,4,87127,34.0522,-118.3932
+San Diego,2,Downtown,Developed,4,Cafeteria,5,81572,32.6727,-117.2152
+San Francisco,7,Suburbs,Developed,8,Cafeteria,3,122763,37.7199,-122.5257
+Los Angeles,1,Suburbs,Recent,6,Banquet,2,49801,34.006,-118.3878
+Los Angeles,5,Downtown,Recent,2,Banquet,3,83257,34.0706,-118.1757
+San Francisco,4,Downtown,Well-Known,9,Cafeteria,1,49700,37.8346,-122.3722
+San Francisco,2,Downtown,Well-Known,4,Full Service Restaurant,1,60794,37.7772,-122.4533
+San Diego,6,Downtown,Recent,4,Full Service Restaurant,4,117788,32.6749,-117.2179
+San Francisco,5,Suburbs,Well-Known,3,Full Service Restaurant,5,141126,37.684,-122.4721
+Los Angeles,1,Suburbs,Recent,10,Full Service Restaurant,1,67650,33.919,-118.2371
+San Francisco,4,Downtown,Recent,2,Banquet,5,75429,37.8341,-122.37
+Los Angeles,1,Suburbs,Well-Known,9,Cafeteria,1,37032,34.1578,-118.2883
+Los Angeles,3,Suburbs,Well-Known,6,Full Service Restaurant,5,131795,33.9822,-118.3763
+Los Angeles,4,Downtown,Recent,2,Cafeteria,4,62638,33.9791,-118.2158
+San Diego,5,Downtown,Developed,6,Cafeteria,5,103888,32.7065,-117.2369
+Los Angeles,5,Downtown,Developed,2,Full Service Restaurant,3,107165,34.097,-118.2029
+San Francisco,1,Suburbs,Well-Known,4,Cafeteria,4,83263,37.8597,-122.2655
+Sacramento,1,Suburbs,Developed,6,Banquet,1,41152,38.6918,-121.4492
+Los Angeles,2,Downtown,Well-Known,7,Full Service Restaurant,2,63856,34.0513,-118.3273
+San Diego,6,Downtown,Recent,1,Full Service Restaurant,3,95595,32.7633,-117.2142
+Los Angeles,6,Downtown,Recent,5,Banquet,3,106710,34.0731,-118.1739
+San Diego,6,Suburbs,Developed,4,Banquet,4,93311,32.5973,-117.1799
+Los Angeles,7,Suburbs,Recent,4,Banquet,4,75962,34.0196,-118.3921
+San Diego,5,Suburbs,Recent,4,Full Service Restaurant,4,94859,32.7503,-117.0289
+San Francisco,3,Downtown,Well-Known,1,Cafeteria,2,34953,37.7485,-122.4124
+San Francisco,5,Suburbs,Recent,10,Cafeteria,2,54152,37.8453,-122.2558
+Los Angeles,7,Suburbs,Developed,6,Banquet,5,125777,34.0948,-118.1136
+Sacramento,1,Suburbs,Developed,3,Full Service Restaurant,3,82448,38.5125,-121.6227
+Sacramento,2,Downtown,Developed,5,Full Service Restaurant,2,78616,38.569,-121.4266
+San Diego,6,Downtown,Developed,10,Full Service Restaurant,1,105999,32.7326,-117.237
+San Diego,4,Downtown,Developed,1,Full Service Restaurant,1,68258,32.7785,-117.1699
+Los Angeles,3,Downtown,Developed,1,Banquet,5,83217,33.9956,-118.1838
+Los Angeles,5,Suburbs,Well-Known,7,Cafeteria,3,77526,33.9207,-118.2806
+Los Angeles,6,Downtown,Developed,5,Banquet,1,78245,33.9827,-118.292
+San Francisco,1,Downtown,Well-Known,6,Banquet,3,65362,37.7937,-122.3387
+San Francisco,1,Downtown,Well-Known,7,Banquet,3,69648,37.8333,-122.4379
+San Diego,5,Suburbs,Recent,10,Full Service Restaurant,2,95262,32.6993,-117.0245
+Sacramento,3,Suburbs,Recent,10,Cafeteria,2,48552,38.658,-121.3802
+San Francisco,6,Downtown,Recent,3,Banquet,3,102942,37.7456,-122.3956
+Sacramento,5,Suburbs,Recent,7,Cafeteria,5,69046,38.4599,-121.4664
+San Diego,7,Downtown,Developed,3,Banquet,3,93017,32.7636,-117.2142
+San Francisco,5,Suburbs,Developed,9,Banquet,4,86229,37.8651,-122.5302
+San Francisco,1,Suburbs,Developed,7,Full Service Restaurant,1,56954,37.7085,-122.5148
+Los Angeles,2,Suburbs,Well-Known,1,Cafeteria,1,35613,33.9714,-118.1235
+Los Angeles,1,Downtown,Well-Known,4,Banquet,1,43832,33.9731,-118.229
+San Francisco,3,Downtown,Well-Known,4,Cafeteria,1,65319,37.8391,-122.4268
+Sacramento,5,Suburbs,Recent,10,Full Service Restaurant,1,89102,38.4839,-121.5895
+San Francisco,7,Suburbs,Well-Known,5,Banquet,3,101549,37.6915,-122.4903
+San Francisco,5,Downtown,Recent,9,Cafeteria,5,89425,37.7817,-122.3396
+San Diego,1,Suburbs,Recent,9,Full Service Restaurant,3,62929,32.597,-117.1819
+Sacramento,2,Suburbs,Recent,6,Full Service Restaurant,2,72613,38.4623,-121.5375
+Sacramento,1,Suburbs,Well-Known,2,Banquet,1,55264,38.5148,-121.3629
+Los Angeles,4,Suburbs,Recent,1,Full Service Restaurant,4,72729,34.0522,-118.3957
+San Francisco,5,Downtown,Recent,10,Full Service Restaurant,3,123991,37.7699,-122.344
+San Diego,4,Downtown,Recent,3,Banquet,2,99032,32.6974,-117.2363
+Sacramento,6,Suburbs,Developed,7,Cafeteria,2,98586,38.6579,-121.6097
+Los Angeles,2,Downtown,Recent,8,Cafeteria,4,63380,34.0258,-118.1642
+Los Angeles,2,Downtown,Well-Known,7,Cafeteria,1,24099,34.1046,-118.2114
+Los Angeles,2,Suburbs,Well-Known,7,Banquet,5,105464,34.1366,-118.151
+San Diego,3,Suburbs,Developed,4,Banquet,3,81173,32.7893,-117.0518
+Los Angeles,6,Downtown,Recent,1,Banquet,4,81568,33.978,-118.2876
+Los Angeles,7,Suburbs,Developed,3,Banquet,1,60863,34.1499,-118.1747
+Sacramento,4,Suburbs,Recent,2,Full Service Restaurant,4,84107,38.6912,-121.5484
+San Francisco,3,Downtown,Developed,8,Full Service Restaurant,3,119856,37.7485,-122.4303
+Los Angeles,5,Suburbs,Well-Known,1,Full Service Restaurant,2,67865,34.0002,-118.3889
+San Diego,5,Suburbs,Recent,4,Cafeteria,3,67027,32.8185,-117.0892
+San Francisco,3,Suburbs,Well-Known,2,Cafeteria,3,66635,37.6711,-122.371
+Los Angeles,5,Downtown,Recent,2,Cafeteria,4,60459,34.0101,-118.325
+San Francisco,4,Downtown,Recent,5,Full Service Restaurant,3,125550,37.7956,-122.4676
+San Francisco,4,Downtown,Recent,5,Banquet,5,101646,37.7561,-122.4472
+San Francisco,2,Downtown,Developed,9,Banquet,1,48732,37.8116,-122.3351
+San Diego,1,Downtown,Recent,5,Full Service Restaurant,4,92862,32.773,-117.1341
+Los Angeles,6,Suburbs,Recent,3,Full Service Restaurant,4,74676,34.1548,-118.3086
+San Francisco,4,Downtown,Recent,10,Cafeteria,4,85846,37.8454,-122.4237
+Sacramento,2,Downtown,Developed,1,Cafeteria,3,64965,38.6304,-121.5113
+Los Angeles,7,Downtown,Developed,4,Cafeteria,3,89158,34.0048,-118.3221
+San Francisco,3,Downtown,Developed,1,Cafeteria,2,35017,37.8487,-122.4143
+Sacramento,2,Downtown,Developed,3,Full Service Restaurant,1,60063,38.5222,-121.494
+Sacramento,4,Suburbs,Developed,4,Cafeteria,1,71546,38.4987,-121.3764
+San Francisco,4,Downtown,Well-Known,2,Banquet,5,125396,37.769,-122.4629
+San Diego,4,Suburbs,Developed,4,Banquet,5,107266,32.6273,-117.2623
+San Diego,4,Suburbs,Developed,3,Full Service Restaurant,1,94243,32.7469,-117.0269
+Sacramento,6,Downtown,Developed,10,Cafeteria,4,111946,38.5282,-121.4586
+San Diego,4,Suburbs,Well-Known,9,Cafeteria,4,86330,32.6331,-117.0622
+Los Angeles,1,Downtown,Developed,10,Banquet,1,45368,34.1099,-118.2713
+Sacramento,3,Suburbs,Developed,3,Banquet,3,90871,38.6409,-121.627
+San Francisco,6,Downtown,Well-Known,2,Banquet,2,60999,37.7387,-122.4165
+San Diego,7,Downtown,Well-Known,10,Banquet,1,95172,32.7208,-117.2411
+San Diego,3,Downtown,Developed,10,Banquet,4,100455,32.7779,-117.1868
+San Francisco,1,Downtown,Well-Known,9,Full Service Restaurant,5,120819,37.815,-122.3306
+San Francisco,7,Downtown,Recent,10,Full Service Restaurant,3,138434,37.7486,-122.3543
+Los Angeles,3,Downtown,Well-Known,9,Banquet,2,70095,34.11,-118.22
+San Diego,2,Downtown,Recent,8,Banquet,4,88200,32.7148,-117.0899
+San Francisco,4,Suburbs,Developed,8,Cafeteria,4,62862,37.7122,-122.2798
+San Diego,6,Downtown,Developed,6,Full Service Restaurant,2,119192,32.7811,-117.1811
+Los Angeles,5,Suburbs,Well-Known,8,Cafeteria,5,113293,33.938,-118.3332
+San Francisco,6,Suburbs,Recent,2,Full Service Restaurant,4,66149,37.6938,-122.495
+Sacramento,2,Suburbs,Developed,4,Banquet,3,65306,38.6029,-121.6463
+Sacramento,5,Suburbs,Developed,2,Full Service Restaurant,3,92961,38.6113,-121.3446
+San Francisco,3,Downtown,Recent,2,Cafeteria,4,76963,37.8231,-122.335
+San Francisco,6,Suburbs,Well-Known,2,Cafeteria,4,81843,37.6717,-122.3659
+San Diego,2,Suburbs,Well-Known,10,Cafeteria,3,59003,32.7384,-117.0245
+Los Angeles,5,Downtown,Developed,2,Cafeteria,1,30307,33.967,-118.2477
+Sacramento,5,Downtown,Well-Known,1,Cafeteria,2,39328,38.6334,-121.51
+San Francisco,5,Suburbs,Well-Known,8,Full Service Restaurant,5,141204,37.8964,-122.4937
+San Diego,4,Suburbs,Developed,8,Cafeteria,4,64349,32.6201,-117.0788
+San Francisco,3,Suburbs,Developed,2,Banquet,1,50674,37.7689,-122.2436
+Los Angeles,3,Downtown,Recent,2,Cafeteria,3,59889,34.0098,-118.1656
+Sacramento,7,Suburbs,Developed,4,Banquet,1,77159,38.6997,-121.486
+Los Angeles,1,Suburbs,Recent,10,Cafeteria,4,32229,33.9151,-118.2488
+San Diego,3,Downtown,Recent,5,Full Service Restaurant,4,116762,32.6601,-117.2056
+Sacramento,5,Suburbs,Well-Known,3,Cafeteria,3,76686,38.6053,-121.3412
+Sacramento,6,Downtown,Developed,10,Cafeteria,2,88626,38.6326,-121.5172
+San Francisco,2,Downtown,Well-Known,9,Full Service Restaurant,2,76512,37.7396,-122.3726
+Sacramento,2,Suburbs,Recent,1,Full Service Restaurant,1,80425,38.6921,-121.4365
+San Diego,7,Suburbs,Recent,1,Banquet,5,50829,32.6127,-117.0912
+Los Angeles,1,Suburbs,Recent,5,Full Service Restaurant,2,78551,34.1311,-118.3527
+San Francisco,7,Suburbs,Developed,9,Banquet,5,111445,37.906,-122.3242
+San Diego,5,Suburbs,Recent,10,Full Service Restaurant,2,81062,32.6561,-117.2919
+Sacramento,5,Suburbs,Developed,9,Full Service Restaurant,2,97629,38.4838,-121.5959
+Sacramento,6,Suburbs,Well-Known,2,Full Service Restaurant,1,73240,38.5852,-121.3368
+San Francisco,4,Downtown,Well-Known,1,Cafeteria,3,54081,37.8276,-122.4621
+San Diego,4,Downtown,Well-Known,7,Banquet,4,108854,32.7525,-117.2321
+San Francisco,3,Suburbs,Recent,8,Full Service Restaurant,2,82070,37.6952,-122.3007
+San Diego,4,Suburbs,Recent,6,Full Service Restaurant,4,81741,32.7532,-117.0275
+Sacramento,6,Downtown,Well-Known,9,Full Service Restaurant,4,141723,38.6357,-121.4837
+San Diego,3,Suburbs,Well-Known,4,Banquet,3,92987,32.8075,-117.264
+Sacramento,4,Suburbs,Developed,7,Cafeteria,4,69307,38.6877,-121.5665
+Los Angeles,4,Suburbs,Recent,2,Full Service Restaurant,1,81100,33.9783,-118.1145
+San Diego,7,Downtown,Well-Known,10,Cafeteria,5,134968,32.7442,-117.2375
+Sacramento,1,Suburbs,Developed,3,Full Service Restaurant,1,66558,38.6873,-121.569
+Sacramento,2,Downtown,Developed,4,Cafeteria,5,83933,38.5631,-121.5668
+Sacramento,2,Downtown,Well-Known,1,Full Service Restaurant,2,68112,38.5512,-121.4265
+Sacramento,4,Suburbs,Well-Known,4,Cafeteria,3,98728,38.7016,-121.5114
+Sacramento,4,Downtown,Recent,8,Full Service Restaurant,4,114338,38.5204,-121.5186
+San Francisco,2,Suburbs,Well-Known,2,Full Service Restaurant,2,91944,37.9206,-122.4164
+San Diego,4,Suburbs,Developed,9,Full Service Restaurant,3,100137,32.6775,-117.3043
+Sacramento,6,Suburbs,Recent,7,Cafeteria,3,97709,38.5374,-121.645
+San Diego,1,Suburbs,Developed,10,Full Service Restaurant,3,78123,32.8067,-117.2678
+Los Angeles,1,Suburbs,Well-Known,8,Banquet,5,90329,33.9375,-118.3362
+San Diego,2,Downtown,Well-Known,10,Cafeteria,5,99055,32.7535,-117.1007
+Los Angeles,6,Suburbs,Well-Known,6,Banquet,4,150121,34.1189,-118.3679
+Los Angeles,3,Downtown,Developed,9,Banquet,3,85599,34.0605,-118.3335
+Los Angeles,1,Downtown,Well-Known,5,Banquet,1,48910,33.9656,-118.2581
+San Francisco,1,Suburbs,Developed,7,Banquet,4,72101,37.8047,-122.5597
+Sacramento,2,Suburbs,Well-Known,10,Cafeteria,1,41965,38.6973,-121.4485
+San Francisco,6,Suburbs,Recent,6,Cafeteria,2,82776,37.9203,-122.4205
+San Francisco,1,Suburbs,Developed,10,Cafeteria,5,52866,37.8341,-122.2473
+San Diego,6,Downtown,Well-Known,4,Cafeteria,5,107148,32.779,-117.1388
+San Francisco,7,Suburbs,Recent,7,Banquet,3,120744,37.9215,-122.3952
+San Francisco,3,Downtown,Developed,5,Cafeteria,5,106745,37.8526,-122.4154
+San Diego,7,Downtown,Well-Known,5,Banquet,4,122090,32.781,-117.1441
+San Diego,1,Downtown,Recent,3,Full Service Restaurant,2,73745,32.6765,-117.1023
+Sacramento,7,Downtown,Well-Known,10,Banquet,1,90198,38.6404,-121.4957
+Sacramento,4,Suburbs,Recent,6,Banquet,3,67860,38.6257,-121.3466
+San Diego,2,Downtown,Recent,6,Cafeteria,1,45447,32.7273,-117.0859
+Sacramento,6,Downtown,Developed,5,Banquet,3,107660,38.6196,-121.5554
+San Francisco,5,Suburbs,Developed,2,Banquet,2,78408,37.6736,-122.3504
+San Diego,2,Downtown,Well-Known,10,Banquet,5,109195,32.7594,-117.1026
+Los Angeles,4,Downtown,Well-Known,3,Cafeteria,5,126830,34.0336,-118.1555
+San Francisco,5,Suburbs,Developed,5,Full Service Restaurant,5,115658,37.717,-122.5277
+San Diego,7,Downtown,Recent,5,Full Service Restaurant,3,125024,32.6964,-117.0883
+San Francisco,6,Suburbs,Well-Known,2,Full Service Restaurant,3,85854,37.8212,-122.5579
+Los Angeles,1,Downtown,Developed,5,Full Service Restaurant,1,73274,34.0866,-118.1737
+San Francisco,1,Suburbs,Recent,8,Cafeteria,5,34836,37.7008,-122.5112
+Los Angeles,4,Downtown,Developed,7,Banquet,4,111576,34.0579,-118.157
+Sacramento,5,Downtown,Developed,9,Banquet,2,75956,38.5137,-121.4962
+Sacramento,7,Suburbs,Developed,6,Banquet,5,122418,38.5136,-121.6321
+San Diego,2,Downtown,Developed,5,Banquet,1,50831,32.7761,-117.1253
+San Diego,1,Downtown,Well-Known,3,Cafeteria,5,102658,32.7866,-117.1683
+San Francisco,5,Suburbs,Recent,7,Full Service Restaurant,3,105845,37.9225,-122.3828
+San Diego,5,Downtown,Developed,4,Cafeteria,1,71736,32.7393,-117.2448
+San Francisco,1,Suburbs,Recent,3,Full Service Restaurant,5,69593,37.8543,-122.2549
+San Francisco,5,Suburbs,Developed,9,Cafeteria,4,72619,37.9007,-122.4931
+Los Angeles,2,Downtown,Developed,10,Cafeteria,2,38900,33.9663,-118.225
+San Diego,1,Suburbs,Well-Known,9,Full Service Restaurant,4,106482,32.7811,-117.2934
+Sacramento,6,Downtown,Well-Known,4,Banquet,2,69880,38.6235,-121.5533
+Los Angeles,5,Suburbs,Developed,6,Banquet,3,100879,33.9427,-118.1489
+San Diego,4,Downtown,Developed,7,Full Service Restaurant,2,88686,32.6467,-117.1685
+Sacramento,5,Downtown,Well-Known,4,Banquet,4,116595,38.5133,-121.513
+San Francisco,4,Suburbs,Recent,8,Banquet,5,66118,37.802,-122.5637
+Los Angeles,3,Suburbs,Developed,5,Full Service Restaurant,2,113346,34.1465,-118.3323
+Sacramento,1,Suburbs,Recent,9,Cafeteria,3,34940,38.6746,-121.3893
+Los Angeles,3,Downtown,Recent,3,Full Service Restaurant,3,111662,34.1177,-118.2453
+San Diego,1,Downtown,Well-Known,7,Full Service Restaurant,2,77050,32.7841,-117.1427
+San Diego,2,Suburbs,Recent,5,Banquet,4,68746,32.8412,-117.146
+San Diego,6,Suburbs,Developed,4,Full Service Restaurant,5,98587,32.8354,-117.2185
+San Francisco,4,Downtown,Recent,6,Banquet,4,107330,37.738,-122.4224
+San Diego,6,Suburbs,Developed,2,Cafeteria,4,60816,32.7295,-117.0159
+Sacramento,4,Suburbs,Developed,7,Cafeteria,5,70322,38.6022,-121.3346
+San Diego,4,Suburbs,Developed,5,Full Service Restaurant,2,112213,32.6635,-117.3034
+Sacramento,1,Suburbs,Well-Known,5,Full Service Restaurant,4,115713,38.7012,-121.5369
+Sacramento,1,Suburbs,Developed,8,Full Service Restaurant,5,79104,38.5999,-121.6555
+Los Angeles,1,Suburbs,Developed,1,Cafeteria,1,31551,34.1631,-118.2892
+Sacramento,6,Downtown,Recent,5,Full Service Restaurant,1,87106,38.5603,-121.4123
+Sacramento,4,Downtown,Well-Known,1,Cafeteria,2,29689,38.621,-121.5601
+San Diego,5,Suburbs,Developed,2,Banquet,5,74034,32.5926,-117.2012
+Sacramento,6,Suburbs,Recent,8,Full Service Restaurant,3,115673,38.6998,-121.4435
+Sacramento,7,Suburbs,Well-Known,3,Full Service Restaurant,3,113160,38.678,-121.3915
+Sacramento,1,Suburbs,Recent,6,Cafeteria,3,40074,38.4579,-121.5536
+Los Angeles,2,Downtown,Developed,8,Cafeteria,1,36204,33.9777,-118.3005
+Sacramento,2,Downtown,Well-Known,10,Cafeteria,5,88859,38.5267,-121.5502
+San Francisco,1,Suburbs,Well-Known,2,Banquet,3,88144,37.6873,-122.3078
+Sacramento,6,Downtown,Well-Known,1,Cafeteria,1,21297,38.6431,-121.5152
+San Diego,6,Suburbs,Developed,2,Cafeteria,3,57623,32.7851,-117.2942
+Sacramento,6,Suburbs,Well-Known,9,Full Service Restaurant,1,109875,38.4546,-121.5413
+Sacramento,5,Downtown,Recent,7,Banquet,2,93321,38.5535,-121.4138
+San Diego,4,Suburbs,Well-Known,2,Cafeteria,1,40007,32.7548,-117.0212
+San Diego,7,Downtown,Recent,5,Banquet,5,112427,32.7136,-117.25
+Los Angeles,7,Suburbs,Well-Known,10,Full Service Restaurant,5,168985,34.1678,-118.2591
+San Francisco,4,Downtown,Well-Known,7,Full Service Restaurant,3,104558,37.7981,-122.3225
+Sacramento,2,Downtown,Recent,6,Banquet,1,42922,38.6371,-121.4527
+Los Angeles,4,Suburbs,Recent,4,Cafeteria,3,71039,34.1518,-118.3263
+San Francisco,3,Suburbs,Recent,4,Full Service Restaurant,4,86919,37.8452,-122.2487
+San Diego,1,Suburbs,Well-Known,8,Cafeteria,1,37433,32.6571,-117.3004
+San Francisco,4,Suburbs,Well-Known,5,Cafeteria,3,96641,37.8668,-122.5366
+San Francisco,6,Suburbs,Well-Known,8,Full Service Restaurant,2,116026,37.8881,-122.5141
+Sacramento,5,Suburbs,Recent,5,Full Service Restaurant,2,112492,38.464,-121.5718
+Sacramento,7,Suburbs,Well-Known,2,Cafeteria,2,44336,38.6865,-121.4051
+Los Angeles,7,Downtown,Recent,3,Banquet,1,73126,34.0413,-118.1535
+Sacramento,1,Suburbs,Well-Known,9,Banquet,5,90197,38.6129,-121.3348
+San Diego,2,Downtown,Developed,10,Full Service Restaurant,2,83525,32.737,-117.0855
+San Francisco,4,Suburbs,Developed,3,Full Service Restaurant,1,84493,37.8443,-122.5521
+Los Angeles,5,Downtown,Well-Known,10,Cafeteria,3,66803,34.0692,-118.334
+San Diego,3,Suburbs,Recent,2,Full Service Restaurant,2,74375,32.8454,-117.1686
+San Francisco,1,Downtown,Developed,10,Banquet,4,80072,37.8375,-122.3444
+San Francisco,5,Suburbs,Recent,8,Full Service Restaurant,2,93286,37.8938,-122.2933
+San Diego,2,Suburbs,Recent,10,Full Service Restaurant,3,70064,32.8178,-117.0713
+Sacramento,1,Suburbs,Developed,9,Banquet,4,61023,38.448,-121.5004
+San Diego,4,Downtown,Recent,1,Banquet,3,70610,32.725,-117.2507
+Sacramento,6,Suburbs,Recent,9,Banquet,4,93709,38.5336,-121.6505
+Sacramento,2,Downtown,Well-Known,5,Full Service Restaurant,2,69709,38.6183,-121.5644
+San Diego,5,Downtown,Developed,3,Full Service Restaurant,2,93667,32.7475,-117.0889
+San Diego,5,Suburbs,Recent,7,Full Service Restaurant,5,98320,32.7118,-117.0132
+San Francisco,6,Suburbs,Well-Known,6,Full Service Restaurant,3,146015,37.851,-122.5487
+San Diego,3,Suburbs,Recent,6,Banquet,2,64590,32.7489,-117.3146
+San Diego,7,Suburbs,Developed,9,Full Service Restaurant,1,114036,32.8049,-117.2788
+San Francisco,6,Downtown,Recent,7,Banquet,3,126348,37.8547,-122.4185
+San Diego,5,Suburbs,Recent,2,Banquet,1,67185,32.6443,-117.294
+San Diego,6,Downtown,Well-Known,2,Cafeteria,4,76889,32.7794,-117.1241
+Sacramento,6,Suburbs,Well-Known,3,Cafeteria,5,107174,38.6329,-121.3435
+San Diego,1,Suburbs,Recent,10,Cafeteria,3,34918,32.5904,-117.1289
+San Diego,1,Downtown,Recent,2,Full Service Restaurant,1,75917,32.6868,-117.0876
+San Francisco,1,Downtown,Developed,4,Banquet,5,96468,37.7325,-122.3983
+San Diego,2,Suburbs,Recent,3,Banquet,1,58686,32.7481,-117.0156
+San Francisco,7,Downtown,Well-Known,10,Banquet,2,107209,37.7742,-122.3255
+Los Angeles,5,Suburbs,Developed,7,Banquet,4,94325,33.9148,-118.2083
+San Diego,5,Suburbs,Recent,9,Cafeteria,1,63968,32.8209,-117.2594
+San Diego,6,Downtown,Developed,7,Cafeteria,1,90988,32.7782,-117.2145
+Sacramento,3,Suburbs,Recent,5,Banquet,3,69098,38.4612,-121.42
+San Francisco,6,Downtown,Developed,1,Full Service Restaurant,3,94258,37.8311,-122.336
+Sacramento,4,Downtown,Well-Known,10,Full Service Restaurant,2,81315,38.6029,-121.4127
+Los Angeles,2,Suburbs,Recent,8,Full Service Restaurant,5,77068,33.9459,-118.1395
+San Francisco,7,Suburbs,Well-Known,10,Full Service Restaurant,3,129299,37.7128,-122.5284
+Los Angeles,2,Downtown,Recent,8,Banquet,5,71589,34.0301,-118.3402
+Los Angeles,7,Downtown,Well-Known,10,Banquet,2,109239,33.966,-118.2749
+San Diego,6,Downtown,Developed,9,Full Service Restaurant,5,140725,32.7432,-117.2483
+San Francisco,2,Downtown,Recent,3,Full Service Restaurant,1,61945,37.7447,-122.3496
+San Diego,2,Downtown,Recent,4,Full Service Restaurant,1,68088,32.7591,-117.2391
+Los Angeles,5,Suburbs,Well-Known,5,Cafeteria,5,136237,34.042,-118.0898
+Los Angeles,3,Suburbs,Well-Known,9,Full Service Restaurant,3,90421,33.9825,-118.1063
+San Diego,2,Suburbs,Well-Known,1,Cafeteria,1,30257,32.8395,-117.1127
+Sacramento,6,Downtown,Recent,10,Full Service Restaurant,5,133049,38.5551,-121.577
+San Diego,1,Downtown,Recent,10,Full Service Restaurant,4,93977,32.7182,-117.077
+San Francisco,1,Suburbs,Recent,4,Full Service Restaurant,1,73678,37.9095,-122.3215
+Sacramento,1,Downtown,Well-Known,9,Cafeteria,2,40269,38.6271,-121.5601
+Los Angeles,4,Downtown,Developed,4,Banquet,5,122773,33.9622,-118.2383
+Los Angeles,7,Downtown,Developed,1,Full Service Restaurant,3,104595,34.104,-118.3042
+Los Angeles,7,Downtown,Recent,8,Full Service Restaurant,1,131163,33.9713,-118.2001
+San Diego,6,Downtown,Well-Known,2,Cafeteria,2,46804,32.6537,-117.117
+San Francisco,2,Suburbs,Developed,9,Cafeteria,3,43019,37.7429,-122.5515
+San Diego,2,Downtown,Developed,3,Full Service Restaurant,3,98987,32.6827,-117.2463
+San Francisco,7,Suburbs,Developed,6,Full Service Restaurant,5,141144,37.8887,-122.2853
+Sacramento,6,Suburbs,Well-Known,5,Cafeteria,5,120997,38.6503,-121.355
+San Francisco,1,Suburbs,Recent,2,Cafeteria,3,42027,37.7333,-122.2539
+San Diego,3,Suburbs,Well-Known,2,Cafeteria,4,78257,32.6224,-117.0579
+San Diego,2,Suburbs,Recent,1,Banquet,1,56372,32.8484,-117.159
+Los Angeles,3,Suburbs,Recent,1,Banquet,5,44484,34.1477,-118.3367
+San Diego,4,Downtown,Developed,1,Full Service Restaurant,3,95835,32.7809,-117.2136
+San Francisco,3,Suburbs,Recent,3,Full Service Restaurant,2,96481,37.9216,-122.3571
+Sacramento,7,Suburbs,Developed,10,Full Service Restaurant,5,123980,38.4971,-121.6257
+San Diego,3,Downtown,Well-Known,6,Cafeteria,5,113246,32.7116,-117.0761
+San Diego,1,Downtown,Recent,10,Banquet,4,75777,32.7931,-117.1727
+San Francisco,5,Downtown,Recent,1,Full Service Restaurant,2,90302,37.7313,-122.4097
+San Diego,3,Downtown,Developed,3,Cafeteria,1,50046,32.7772,-117.2222
+Sacramento,6,Suburbs,Developed,3,Cafeteria,3,65902,38.6084,-121.3309
+Los Angeles,1,Suburbs,Well-Known,8,Full Service Restaurant,5,119418,34.0773,-118.3981
+Los Angeles,1,Downtown,Developed,1,Cafeteria,2,51721,34.1077,-118.1949
+San Diego,7,Downtown,Recent,3,Banquet,1,57964,32.7161,-117.0742
+San Francisco,4,Downtown,Developed,4,Cafeteria,1,59958,37.7307,-122.3956
+Los Angeles,5,Suburbs,Developed,10,Banquet,3,79807,33.926,-118.1712
+Sacramento,2,Suburbs,Recent,4,Full Service Restaurant,1,86709,38.6589,-121.3619
+San Diego,5,Suburbs,Well-Known,4,Cafeteria,4,105860,32.6499,-117.3016
+Sacramento,5,Suburbs,Recent,5,Full Service Restaurant,3,117675,38.615,-121.6556
+San Francisco,3,Downtown,Recent,10,Banquet,4,81245,37.7909,-122.3173
+San Diego,1,Downtown,Recent,9,Cafeteria,1,33190,32.6417,-117.1968
+San Diego,6,Downtown,Well-Known,9,Banquet,3,114390,32.7865,-117.2109
+San Diego,7,Downtown,Developed,7,Cafeteria,3,135233,32.6557,-117.2295
+San Diego,2,Suburbs,Developed,9,Banquet,2,70158,32.5884,-117.1281
+Sacramento,1,Downtown,Well-Known,5,Cafeteria,3,62065,38.5058,-121.5046
+Sacramento,7,Downtown,Well-Known,6,Cafeteria,4,116700,38.5898,-121.5858
+San Francisco,2,Downtown,Well-Known,2,Cafeteria,5,109162,37.8555,-122.4311
+Los Angeles,6,Downtown,Well-Known,5,Cafeteria,3,80914,34.119,-118.2282
+Sacramento,5,Suburbs,Recent,2,Full Service Restaurant,5,76224,38.6002,-121.6606
+San Francisco,7,Downtown,Developed,4,Full Service Restaurant,3,109605,37.7443,-122.3447
+San Diego,4,Downtown,Recent,9,Banquet,4,95918,32.7925,-117.2017
+Los Angeles,1,Suburbs,Recent,4,Full Service Restaurant,1,72676,34.159,-118.1776
+Sacramento,2,Suburbs,Recent,6,Full Service Restaurant,3,64102,38.6796,-121.6027
+Los Angeles,4,Downtown,Recent,3,Full Service Restaurant,5,126938,34.0694,-118.1564
+San Francisco,6,Downtown,Developed,8,Full Service Restaurant,5,160150,37.7942,-122.4857
+Sacramento,3,Suburbs,Well-Known,10,Full Service Restaurant,2,85974,38.5168,-121.3438
+Sacramento,1,Suburbs,Well-Known,2,Full Service Restaurant,3,89291,38.4531,-121.4366
+Sacramento,2,Suburbs,Recent,9,Full Service Restaurant,5,65431,38.57,-121.3248
+San Diego,6,Downtown,Developed,3,Full Service Restaurant,5,122744,32.6879,-117.2568
+Los Angeles,1,Downtown,Developed,9,Full Service Restaurant,5,95198,33.9778,-118.3089
+Los Angeles,2,Downtown,Developed,2,Full Service Restaurant,2,96225,33.98,-118.1813
+San Diego,5,Suburbs,Well-Known,3,Full Service Restaurant,1,95965,32.8486,-117.1509
+Sacramento,1,Downtown,Recent,7,Banquet,2,67361,38.56,-121.4025
+Los Angeles,4,Suburbs,Developed,5,Cafeteria,4,78807,34.1678,-118.2064
+Los Angeles,6,Downtown,Recent,3,Cafeteria,2,61770,34.0602,-118.1514
+San Francisco,2,Suburbs,Recent,5,Full Service Restaurant,3,76707,37.8167,-122.2358
+Sacramento,7,Downtown,Well-Known,5,Full Service Restaurant,2,106977,38.6506,-121.5117
+San Francisco,1,Downtown,Developed,6,Cafeteria,5,71274,37.8484,-122.4547
+San Francisco,3,Suburbs,Developed,9,Full Service Restaurant,2,101248,37.8073,-122.2341
+San Diego,4,Downtown,Well-Known,3,Banquet,1,62154,32.7972,-117.1827
+San Francisco,2,Suburbs,Recent,9,Full Service Restaurant,2,67034,37.8605,-122.2556
+Los Angeles,7,Downtown,Developed,6,Cafeteria,5,128962,34.0692,-118.1545
+Los Angeles,5,Suburbs,Well-Known,3,Full Service Restaurant,5,146532,33.9652,-118.377
+San Francisco,1,Downtown,Developed,9,Cafeteria,2,33243,37.7537,-122.3295
+San Francisco,5,Suburbs,Developed,2,Full Service Restaurant,5,77854,37.7606,-122.2382
+Sacramento,1,Downtown,Recent,7,Banquet,1,45017,38.5048,-121.5149
+San Diego,6,Downtown,Well-Known,7,Cafeteria,1,93908,32.7131,-117.2636
+Sacramento,4,Downtown,Recent,1,Cafeteria,3,57009,38.5125,-121.5422
+San Diego,6,Downtown,Well-Known,9,Full Service Restaurant,2,107929,32.7779,-117.2315
+Sacramento,2,Suburbs,Recent,8,Cafeteria,1,52139,38.4469,-121.5218
+San Francisco,6,Suburbs,Developed,3,Cafeteria,3,69614,37.6808,-122.4862
+Sacramento,7,Downtown,Developed,4,Full Service Restaurant,4,132017,38.5344,-121.5763
+Sacramento,2,Downtown,Recent,2,Full Service Restaurant,3,108471,38.5887,-121.3957
+Los Angeles,6,Downtown,Developed,10,Banquet,1,83908,33.9651,-118.2087
+San Diego,4,Suburbs,Recent,1,Banquet,4,59109,32.8486,-117.1494
+San Diego,7,Downtown,Recent,7,Cafeteria,3,135321,32.6722,-117.2492
+San Francisco,3,Suburbs,Well-Known,1,Banquet,3,76084,37.7027,-122.2775
+Sacramento,4,Downtown,Developed,9,Full Service Restaurant,2,89309,38.6086,-121.5864
+Sacramento,7,Downtown,Recent,6,Full Service Restaurant,3,154722,38.6467,-121.5431
+Los Angeles,7,Suburbs,Well-Known,9,Cafeteria,3,99077,34.166,-118.1971
+San Francisco,5,Suburbs,Well-Known,4,Full Service Restaurant,2,116480,37.8187,-122.2337
+Los Angeles,1,Suburbs,Well-Known,10,Full Service Restaurant,2,76165,34.0646,-118.0897
+Los Angeles,2,Downtown,Well-Known,10,Full Service Restaurant,2,63518,33.9748,-118.1845
+Los Angeles,1,Downtown,Developed,3,Banquet,1,44418,33.9586,-118.2668
+San Diego,3,Suburbs,Well-Known,8,Cafeteria,1,52925,32.5915,-117.2185
+Sacramento,5,Downtown,Developed,5,Banquet,3,116279,38.6515,-121.4572
+San Diego,6,Suburbs,Recent,3,Full Service Restaurant,4,78307,32.773,-117.3094
+San Diego,6,Suburbs,Recent,5,Full Service Restaurant,1,101036,32.7985,-117.2913
+Sacramento,4,Downtown,Developed,1,Cafeteria,5,70647,38.5576,-121.3962
+Sacramento,1,Downtown,Well-Known,8,Banquet,4,91260,38.5603,-121.5936
+San Diego,6,Downtown,Well-Known,10,Cafeteria,3,84083,32.7834,-117.1069
+San Francisco,7,Downtown,Recent,1,Full Service Restaurant,4,82784,37.8037,-122.4873
+Los Angeles,2,Suburbs,Recent,3,Full Service Restaurant,1,82328,34.064,-118.0894
+San Diego,2,Downtown,Well-Known,3,Full Service Restaurant,4,116195,32.7874,-117.2185
+Sacramento,5,Suburbs,Well-Known,4,Cafeteria,3,92259,38.5107,-121.3472
+San Diego,4,Downtown,Recent,9,Cafeteria,3,83997,32.7817,-117.2281
+San Francisco,2,Suburbs,Recent,5,Cafeteria,3,36705,37.9054,-122.4944
+San Francisco,1,Downtown,Recent,8,Banquet,2,57157,37.7755,-122.4854
+San Diego,2,Downtown,Well-Known,3,Banquet,1,50002,32.7999,-117.1524
+San Diego,7,Suburbs,Well-Known,10,Banquet,3,121078,32.7831,-117.3038
+San Francisco,4,Downtown,Recent,5,Banquet,5,106047,37.8078,-122.3114
+Sacramento,1,Suburbs,Recent,7,Full Service Restaurant,1,67686,38.4838,-121.3735
+San Francisco,3,Suburbs,Recent,1,Full Service Restaurant,2,74750,37.8812,-122.5288
+San Francisco,6,Suburbs,Developed,9,Banquet,2,107565,37.7772,-122.5678
+San Diego,2,Downtown,Developed,9,Full Service Restaurant,2,70305,32.6535,-117.2321
+San Francisco,6,Downtown,Recent,2,Cafeteria,1,34907,37.776,-122.4878
+San Diego,5,Suburbs,Recent,6,Cafeteria,3,62414,32.8166,-117.0607
+Los Angeles,7,Suburbs,Developed,10,Full Service Restaurant,1,113227,34.1,-118.3907
+San Diego,6,Downtown,Recent,8,Cafeteria,1,87416,32.7751,-117.0937
+San Francisco,4,Suburbs,Recent,7,Cafeteria,1,56842,37.7927,-122.2304
+Sacramento,4,Suburbs,Well-Known,9,Banquet,1,67213,38.521,-121.339
+San Francisco,5,Suburbs,Well-Known,7,Banquet,1,66011,37.9055,-122.3046
+Los Angeles,1,Suburbs,Recent,4,Banquet,5,51382,34.1662,-118.3016
+San Diego,1,Suburbs,Well-Known,3,Full Service Restaurant,5,113702,32.5892,-117.1185
+San Francisco,2,Downtown,Recent,3,Full Service Restaurant,1,65904,37.8068,-122.4924
+San Diego,5,Suburbs,Developed,4,Full Service Restaurant,3,124729,32.583,-117.1748
+Sacramento,1,Downtown,Well-Known,2,Banquet,3,65416,38.5448,-121.4012
+Los Angeles,6,Suburbs,Developed,6,Banquet,1,111877,34.17,-118.2054
+Sacramento,3,Suburbs,Developed,7,Cafeteria,5,63053,38.7021,-121.5584
+Sacramento,5,Suburbs,Recent,7,Banquet,3,89299,38.6117,-121.3278
+Los Angeles,1,Downtown,Recent,2,Cafeteria,5,68758,34.0609,-118.345
+San Francisco,7,Suburbs,Recent,10,Banquet,2,96784,37.8792,-122.2682
+San Francisco,4,Suburbs,Recent,8,Banquet,2,83758,37.9143,-122.4765
+San Francisco,2,Suburbs,Well-Known,1,Banquet,3,68347,37.7086,-122.2698
+San Francisco,2,Suburbs,Well-Known,6,Full Service Restaurant,4,120258,37.6633,-122.3627
+Sacramento,6,Suburbs,Developed,4,Full Service Restaurant,2,101050,38.6155,-121.329
+Los Angeles,6,Suburbs,Recent,8,Cafeteria,5,98870,34.1558,-118.33
+San Francisco,5,Suburbs,Recent,4,Banquet,3,86378,37.9258,-122.3612
+Los Angeles,7,Downtown,Recent,10,Cafeteria,1,80371,34.0727,-118.1528
+San Francisco,7,Downtown,Developed,5,Full Service Restaurant,2,99439,37.8617,-122.4401
+Sacramento,3,Downtown,Developed,2,Banquet,3,85463,38.6288,-121.4138
+San Francisco,3,Downtown,Recent,8,Cafeteria,5,83185,37.7828,-122.494
+Sacramento,3,Suburbs,Well-Known,4,Banquet,3,88060,38.46,-121.4109
+Sacramento,3,Suburbs,Recent,6,Cafeteria,5,55336,38.4696,-121.3895
+San Francisco,5,Downtown,Recent,6,Cafeteria,1,53845,37.7764,-122.3074
+San Francisco,7,Suburbs,Developed,1,Cafeteria,4,53861,37.7944,-122.2291
+San Francisco,3,Downtown,Well-Known,4,Banquet,1,64504,37.7378,-122.4626
+Sacramento,2,Suburbs,Developed,10,Cafeteria,5,40561,38.7117,-121.5259
+San Diego,6,Downtown,Recent,2,Full Service Restaurant,5,95651,32.7963,-117.2026
+Sacramento,1,Downtown,Developed,10,Full Service Restaurant,3,101222,38.6557,-121.5228
+San Francisco,3,Downtown,Recent,9,Banquet,1,51179,37.8087,-122.4948
+Sacramento,1,Suburbs,Well-Known,3,Banquet,4,100814,38.6987,-121.5747
+San Francisco,7,Suburbs,Developed,7,Full Service Restaurant,4,135864,37.8896,-122.2785
+San Diego,1,Suburbs,Recent,3,Full Service Restaurant,3,63466,32.5882,-117.1199
+Sacramento,7,Suburbs,Well-Known,2,Banquet,5,97363,38.4638,-121.591
+Sacramento,7,Downtown,Recent,2,Full Service Restaurant,1,64823,38.6588,-121.5001
+San Diego,4,Suburbs,Recent,3,Banquet,4,69908,32.6375,-117.0366
+San Francisco,7,Downtown,Well-Known,1,Full Service Restaurant,1,71799,37.8636,-122.4422
+San Diego,2,Downtown,Developed,2,Banquet,1,62744,32.6372,-117.1291
+Sacramento,2,Suburbs,Developed,9,Banquet,5,70158,38.6497,-121.3446
+San Francisco,7,Downtown,Recent,4,Full Service Restaurant,3,120295,37.74,-122.4687
+San Francisco,1,Downtown,Well-Known,9,Cafeteria,5,103150,37.7833,-122.4965
+Los Angeles,5,Downtown,Well-Known,8,Banquet,2,73920,34.0836,-118.1587
+San Diego,4,Downtown,Developed,10,Cafeteria,2,53553,32.7864,-117.2248
+San Diego,6,Downtown,Well-Known,10,Banquet,2,88328,32.7906,-117.1137
+San Francisco,2,Downtown,Developed,8,Banquet,3,80887,37.7173,-122.4012
+San Diego,4,Downtown,Developed,3,Full Service Restaurant,3,125149,32.7363,-117.2658
+San Francisco,2,Downtown,Developed,7,Full Service Restaurant,2,70129,37.87,-122.4226
+San Francisco,2,Downtown,Developed,3,Banquet,1,44050,37.7925,-122.4986
+San Francisco,2,Suburbs,Well-Known,7,Banquet,4,92262,37.8939,-122.5159
+Sacramento,5,Suburbs,Recent,3,Cafeteria,4,55988,38.4429,-121.528
+San Diego,6,Downtown,Developed,6,Full Service Restaurant,5,157136,32.6302,-117.1608
+Sacramento,1,Downtown,Well-Known,1,Full Service Restaurant,5,138049,38.6448,-121.4353
+Sacramento,1,Downtown,Recent,9,Banquet,1,49288,38.5725,-121.5984
+San Francisco,7,Suburbs,Well-Known,6,Banquet,5,155446,37.9116,-122.3141
+San Francisco,4,Suburbs,Well-Known,1,Full Service Restaurant,2,73418,37.6639,-122.3548
+San Francisco,5,Downtown,Recent,3,Cafeteria,1,53727,37.7243,-122.3524
+San Francisco,1,Downtown,Developed,3,Cafeteria,2,36214,37.8175,-122.4966
+San Diego,2,Suburbs,Recent,1,Banquet,3,53414,32.8471,-117.2085
+Los Angeles,5,Suburbs,Developed,3,Banquet,1,70830,33.9209,-118.174
+San Francisco,4,Downtown,Well-Known,8,Cafeteria,3,70678,37.7725,-122.4971
+Sacramento,2,Suburbs,Recent,7,Cafeteria,4,37624,38.4724,-121.6072
+Sacramento,7,Suburbs,Well-Known,7,Cafeteria,5,151753,38.6537,-121.6413
+Sacramento,7,Downtown,Developed,3,Full Service Restaurant,2,98550,38.6571,-121.5216
+San Francisco,4,Suburbs,Recent,7,Banquet,4,71655,37.9102,-122.3085
+Los Angeles,2,Downtown,Well-Known,1,Cafeteria,3,65651,34.0359,-118.3496
+San Diego,4,Downtown,Developed,8,Banquet,4,119415,32.6558,-117.2402
+Los Angeles,6,Suburbs,Well-Known,4,Full Service Restaurant,1,81118,33.9057,-118.2359
+San Diego,4,Suburbs,Recent,9,Full Service Restaurant,2,85709,32.8265,-117.2601
+San Diego,3,Suburbs,Recent,10,Full Service Restaurant,1,82889,32.6094,-117.2649
+San Diego,7,Suburbs,Developed,10,Cafeteria,5,92531,32.8504,-117.1952
+Sacramento,6,Suburbs,Well-Known,8,Cafeteria,4,124598,38.7153,-121.4752
+San Diego,4,Suburbs,Recent,4,Full Service Restaurant,3,110505,32.7417,-117.3256
+Sacramento,7,Suburbs,Recent,10,Cafeteria,3,84836,38.4409,-121.5191
+Los Angeles,1,Downtown,Recent,2,Cafeteria,5,68861,34.112,-118.1895
+San Diego,7,Suburbs,Developed,5,Cafeteria,3,84019,32.7216,-117.3286
+Los Angeles,7,Suburbs,Developed,5,Cafeteria,2,87931,34.1713,-118.2901
+Los Angeles,4,Downtown,Developed,9,Cafeteria,3,74752,34.1132,-118.1899
+Los Angeles,2,Suburbs,Well-Known,8,Banquet,1,43962,34.1377,-118.1323
+San Francisco,5,Suburbs,Recent,7,Full Service Restaurant,3,94508,37.9052,-122.501
+Los Angeles,5,Suburbs,Recent,8,Banquet,5,72964,34.1218,-118.1155
+San Francisco,7,Downtown,Recent,2,Banquet,3,81914,37.7336,-122.4661
+Los Angeles,3,Downtown,Well-Known,6,Cafeteria,1,43221,34.1208,-118.2069
+Los Angeles,4,Downtown,Recent,8,Banquet,2,79959,33.9686,-118.3058
+Los Angeles,1,Suburbs,Well-Known,2,Full Service Restaurant,3,95842,33.9458,-118.3638
+Sacramento,6,Downtown,Recent,2,Full Service Restaurant,4,88461,38.5353,-121.4042
+San Diego,7,Suburbs,Developed,10,Cafeteria,3,104551,32.6175,-117.054
+Los Angeles,4,Suburbs,Developed,6,Banquet,3,84587,34.1753,-118.2682
+Los Angeles,1,Downtown,Developed,9,Banquet,1,40996,33.9783,-118.3201
+San Francisco,2,Suburbs,Recent,7,Cafeteria,5,43980,37.6808,-122.4955
+San Francisco,7,Suburbs,Well-Known,4,Banquet,5,113186,37.6602,-122.4311
+Los Angeles,4,Suburbs,Recent,5,Cafeteria,5,80516,34.0905,-118.3995
+San Francisco,5,Suburbs,Recent,9,Cafeteria,2,52074,37.7814,-122.2273
+San Francisco,5,Suburbs,Recent,9,Full Service Restaurant,5,80173,37.7439,-122.2386
+San Diego,4,Downtown,Well-Known,4,Cafeteria,3,89364,32.6391,-117.217
+Sacramento,4,Suburbs,Developed,7,Banquet,2,99598,38.649,-121.6459
+San Francisco,5,Suburbs,Developed,7,Cafeteria,5,83534,37.8701,-122.2548
+San Francisco,1,Suburbs,Recent,6,Cafeteria,1,41501,37.9159,-122.317
+San Francisco,1,Downtown,Developed,10,Full Service Restaurant,1,71758,37.764,-122.494
+Los Angeles,1,Downtown,Recent,5,Full Service Restaurant,4,93847,34.0807,-118.3407
+Sacramento,6,Suburbs,Recent,3,Full Service Restaurant,4,91602,38.4421,-121.4593
+San Francisco,3,Downtown,Well-Known,4,Full Service Restaurant,2,101156,37.7366,-122.3292
+San Diego,1,Downtown,Recent,4,Banquet,2,63654,32.6913,-117.2676
+Los Angeles,2,Suburbs,Well-Known,5,Cafeteria,2,51506,33.9504,-118.1238
+San Francisco,4,Suburbs,Well-Known,8,Full Service Restaurant,3,112143,37.6649,-122.4593
+Sacramento,1,Downtown,Well-Known,2,Banquet,2,69988,38.5225,-121.5725
+Los Angeles,6,Suburbs,Well-Known,1,Full Service Restaurant,3,91479,34.1719,-118.2004
+Sacramento,4,Suburbs,Developed,2,Cafeteria,3,55698,38.4987,-121.6395
+San Diego,5,Downtown,Well-Known,9,Cafeteria,4,99087,32.6693,-117.0758
+Los Angeles,2,Suburbs,Recent,1,Banquet,1,69084,34.1648,-118.3168
+Los Angeles,5,Suburbs,Well-Known,8,Cafeteria,1,67668,33.9056,-118.274
+San Francisco,1,Suburbs,Developed,4,Cafeteria,4,47805,37.7943,-122.2253
+Sacramento,1,Suburbs,Recent,2,Full Service Restaurant,1,88348,38.5129,-121.6509
+Los Angeles,6,Downtown,Well-Known,2,Full Service Restaurant,3,87648,34.1264,-118.2682
+San Diego,6,Downtown,Developed,2,Full Service Restaurant,2,82170,32.7607,-117.2588
+Sacramento,2,Suburbs,Developed,8,Cafeteria,5,53734,38.7077,-121.5572
+San Diego,4,Downtown,Well-Known,1,Full Service Restaurant,3,78300,32.652,-117.091
+San Diego,3,Suburbs,Developed,7,Cafeteria,2,70961,32.8372,-117.2435
+San Francisco,2,Suburbs,Developed,6,Cafeteria,5,53049,37.8579,-122.5552
+Los Angeles,7,Suburbs,Developed,2,Cafeteria,5,60567,34.1069,-118.3918
+Los Angeles,4,Downtown,Developed,7,Full Service Restaurant,1,90669,33.9539,-118.2286
+Sacramento,1,Downtown,Developed,3,Cafeteria,5,63935,38.5785,-121.3885
+San Francisco,5,Suburbs,Recent,4,Full Service Restaurant,5,100498,37.6787,-122.4955
+San Diego,2,Suburbs,Recent,5,Banquet,5,63496,32.74,-117.0055
+Los Angeles,4,Suburbs,Developed,6,Full Service Restaurant,5,102020,34.1606,-118.1656
+San Francisco,5,Suburbs,Well-Known,7,Banquet,2,78261,37.9315,-122.4279
+San Diego,4,Downtown,Recent,10,Cafeteria,3,72970,32.6878,-117.2683
+Sacramento,6,Suburbs,Well-Known,6,Banquet,5,158651,38.6373,-121.3334
+San Diego,6,Suburbs,Well-Known,1,Banquet,4,86396,32.8135,-117.0505
+Sacramento,6,Suburbs,Well-Known,2,Banquet,3,70344,38.4724,-121.6101
+Los Angeles,5,Downtown,Well-Known,10,Full Service Restaurant,2,92396,33.9837,-118.1657
+San Francisco,4,Downtown,Developed,4,Banquet,1,88332,37.7489,-122.4841
+Sacramento,6,Suburbs,Well-Known,2,Full Service Restaurant,2,73230,38.4706,-121.6075
+Los Angeles,1,Downtown,Recent,10,Cafeteria,4,58264,34.0252,-118.3518
+Los Angeles,3,Suburbs,Developed,5,Full Service Restaurant,1,101239,34.0654,-118.4101
+San Francisco,3,Suburbs,Well-Known,7,Banquet,3,87021,37.755,-122.2314
+San Diego,7,Downtown,Developed,3,Cafeteria,5,83011,32.6859,-117.2675
+Sacramento,4,Suburbs,Well-Known,5,Full Service Restaurant,4,139081,38.5703,-121.672
+Sacramento,5,Downtown,Developed,8,Full Service Restaurant,4,124660,38.5096,-121.4344
+Los Angeles,5,Downtown,Recent,7,Banquet,4,109705,33.9521,-118.2548
+Los Angeles,3,Suburbs,Well-Known,10,Cafeteria,5,97200,34.1287,-118.1189
+Sacramento,1,Downtown,Recent,6,Cafeteria,1,36633,38.5004,-121.4565
+Sacramento,2,Downtown,Developed,5,Full Service Restaurant,4,111892,38.4947,-121.4841
+San Francisco,4,Downtown,Well-Known,3,Cafeteria,3,81817,37.8571,-122.4648
+San Francisco,3,Downtown,Developed,9,Full Service Restaurant,5,120971,37.7211,-122.3558
+San Diego,4,Downtown,Well-Known,7,Banquet,3,83974,32.7212,-117.274
+Los Angeles,1,Suburbs,Recent,9,Banquet,1,62971,34.0568,-118.0815
+Los Angeles,7,Downtown,Developed,5,Full Service Restaurant,1,86266,34.0017,-118.1497
+San Diego,4,Suburbs,Recent,4,Full Service Restaurant,5,111944,32.5832,-117.2038
+Los Angeles,5,Suburbs,Recent,3,Cafeteria,4,62689,33.9971,-118.4051
+San Francisco,1,Downtown,Well-Known,9,Banquet,2,63157,37.8369,-122.4887
+Los Angeles,1,Suburbs,Recent,1,Banquet,5,49285,34.1135,-118.3888
+Los Angeles,5,Suburbs,Developed,4,Banquet,4,98018,33.9324,-118.3506
+San Francisco,3,Downtown,Well-Known,10,Full Service Restaurant,5,130770,37.8123,-122.5013
+Los Angeles,3,Downtown,Recent,2,Cafeteria,1,39209,34.0704,-118.3497
+San Diego,2,Downtown,Well-Known,6,Banquet,4,97562,32.7253,-117.0579
+Los Angeles,7,Downtown,Recent,10,Cafeteria,3,102948,33.9769,-118.3238
+Los Angeles,1,Downtown,Recent,4,Cafeteria,4,62126,34.1297,-118.2658
+San Francisco,2,Suburbs,Developed,1,Full Service Restaurant,5,89915,37.6696,-122.3224
+Sacramento,1,Downtown,Recent,3,Full Service Restaurant,2,75142,38.5605,-121.3888
+San Diego,2,Suburbs,Developed,9,Cafeteria,3,43769,32.6601,-117.3149
+Sacramento,6,Suburbs,Developed,9,Full Service Restaurant,1,110774,38.4598,-121.3999
+San Diego,1,Downtown,Well-Known,8,Cafeteria,4,72304,32.8079,-117.1769
+Sacramento,1,Suburbs,Recent,3,Full Service Restaurant,2,73719,38.7109,-121.5467
+Sacramento,5,Suburbs,Developed,4,Full Service Restaurant,1,100245,38.5602,-121.3174
+Los Angeles,7,Suburbs,Recent,5,Banquet,2,84656,34.0716,-118.0836
+San Diego,6,Suburbs,Recent,4,Full Service Restaurant,1,87445,32.741,-117.3271
+San Diego,5,Suburbs,Recent,6,Cafeteria,2,73938,32.5794,-117.1775
+Sacramento,7,Downtown,Recent,9,Full Service Restaurant,1,120069,38.645,-121.4285
+San Francisco,5,Downtown,Well-Known,5,Full Service Restaurant,1,98009,37.872,-122.3614
+San Francisco,4,Downtown,Recent,5,Banquet,2,101020,37.8535,-122.4748
+San Francisco,1,Downtown,Recent,7,Full Service Restaurant,2,81207,37.8104,-122.504
+San Francisco,2,Suburbs,Developed,2,Banquet,2,88092,37.7223,-122.2494
+San Diego,2,Suburbs,Well-Known,2,Banquet,1,69667,32.6947,-117.0041
+San Diego,7,Suburbs,Recent,10,Full Service Restaurant,4,116891,32.8548,-117.1809
+Los Angeles,2,Suburbs,Well-Known,8,Banquet,2,59232,34.1102,-118.3918
+San Diego,5,Suburbs,Well-Known,3,Banquet,5,114472,32.8524,-117.131
+San Francisco,4,Downtown,Developed,10,Full Service Restaurant,2,93203,37.7111,-122.4087
+San Diego,2,Suburbs,Recent,10,Cafeteria,4,30032,32.6804,-117.0068
+San Diego,7,Downtown,Well-Known,3,Banquet,1,71053,32.7048,-117.0579
+Los Angeles,5,Downtown,Developed,5,Cafeteria,5,115974,33.9872,-118.1588
+Los Angeles,3,Downtown,Well-Known,8,Cafeteria,1,45599,34.0182,-118.1406
+San Francisco,6,Suburbs,Developed,6,Banquet,4,112199,37.9347,-122.3964
+San Diego,7,Downtown,Well-Known,8,Cafeteria,2,103353,32.7292,-117.2745
+Los Angeles,6,Downtown,Developed,9,Banquet,3,113586,33.9515,-118.226
+San Diego,5,Downtown,Recent,9,Cafeteria,4,84605,32.7959,-117.1093
+San Diego,6,Suburbs,Recent,9,Cafeteria,4,76329,32.6429,-117.0261
+San Diego,7,Downtown,Well-Known,4,Banquet,1,74647,32.6283,-117.1998
+Sacramento,5,Downtown,Recent,7,Cafeteria,3,90638,38.5719,-121.6036
+Sacramento,3,Downtown,Recent,6,Cafeteria,4,76361,38.6064,-121.3908
+Los Angeles,1,Suburbs,Recent,7,Banquet,5,48050,34.0545,-118.0801
+San Diego,3,Downtown,Recent,2,Full Service Restaurant,4,101013,32.7725,-117.2551
+Los Angeles,2,Suburbs,Recent,1,Banquet,3,55699,34.0775,-118.0851
+San Diego,2,Suburbs,Recent,10,Full Service Restaurant,5,68186,32.8555,-117.1832
+San Diego,4,Downtown,Well-Known,2,Banquet,5,124427,32.7785,-117.2496
+San Diego,2,Downtown,Recent,10,Full Service Restaurant,4,89724,32.7587,-117.0655
+Sacramento,4,Suburbs,Well-Known,7,Banquet,1,65221,38.6864,-121.3822
+Sacramento,2,Downtown,Recent,9,Banquet,1,56239,38.4963,-121.5284
+San Diego,6,Downtown,Well-Known,9,Full Service Restaurant,3,132498,32.7585,-117.0653
+Sacramento,5,Downtown,Developed,4,Full Service Restaurant,3,135411,38.5238,-121.4063
+Sacramento,5,Downtown,Well-Known,3,Full Service Restaurant,2,97594,38.6008,-121.6024
+San Diego,6,Downtown,Recent,4,Full Service Restaurant,5,112861,32.8029,-117.2123
+Los Angeles,2,Downtown,Well-Known,3,Cafeteria,2,52769,33.9868,-118.3365
+San Francisco,7,Suburbs,Recent,3,Banquet,1,78514,37.9311,-122.4398
+San Diego,7,Suburbs,Developed,9,Banquet,4,110626,32.6074,-117.2693
+San Diego,6,Downtown,Recent,3,Full Service Restaurant,4,111051,32.631,-117.2183
+San Francisco,4,Suburbs,Developed,6,Full Service Restaurant,5,101312,37.8245,-122.2265
+San Diego,5,Suburbs,Developed,2,Banquet,4,69371,32.7244,-117.332
+San Diego,7,Downtown,Developed,4,Cafeteria,5,96859,32.6331,-117.223
+Los Angeles,7,Downtown,Well-Known,3,Full Service Restaurant,5,141874,34.0142,-118.3531
+San Francisco,3,Downtown,Developed,7,Banquet,4,114491,37.7163,-122.3591
+Sacramento,2,Downtown,Developed,2,Cafeteria,5,95574,38.504,-121.4308
+San Francisco,1,Suburbs,Well-Known,7,Full Service Restaurant,4,117765,37.8756,-122.545
+Los Angeles,4,Downtown,Developed,9,Full Service Restaurant,4,113614,34.0475,-118.3584
+Sacramento,4,Suburbs,Recent,8,Full Service Restaurant,4,83312,38.5811,-121.3149
+Sacramento,6,Suburbs,Recent,7,Cafeteria,1,102455,38.4713,-121.3774
+Sacramento,6,Suburbs,Developed,4,Banquet,2,88796,38.4418,-121.4473
+Sacramento,3,Suburbs,Developed,1,Full Service Restaurant,5,89132,38.4407,-121.4526
+Sacramento,5,Downtown,Well-Known,6,Full Service Restaurant,5,154802,38.5196,-121.581
+Los Angeles,1,Suburbs,Well-Known,8,Full Service Restaurant,1,66753,33.9171,-118.1699
+San Diego,7,Suburbs,Recent,4,Banquet,5,71904,32.6867,-117.3284
+Sacramento,1,Suburbs,Developed,10,Cafeteria,2,41914,38.6009,-121.3161
+Sacramento,4,Suburbs,Recent,2,Full Service Restaurant,3,70372,38.5127,-121.3339
+San Francisco,1,Downtown,Recent,9,Cafeteria,2,54068,37.8512,-122.4809
+Sacramento,7,Downtown,Recent,5,Full Service Restaurant,5,114153,38.594,-121.3814
+San Francisco,5,Suburbs,Recent,10,Cafeteria,4,66857,37.8257,-122.5731
+Los Angeles,1,Downtown,Recent,3,Full Service Restaurant,4,85377,34.0926,-118.1535
+Sacramento,5,Downtown,Recent,1,Cafeteria,5,54872,38.6454,-121.4175
+San Diego,1,Downtown,Recent,3,Full Service Restaurant,5,90134,32.6585,-117.2573
+San Diego,3,Downtown,Recent,6,Cafeteria,1,40523,32.7515,-117.2748
+Los Angeles,2,Downtown,Well-Known,1,Banquet,2,55187,34.0493,-118.3589
+Los Angeles,6,Downtown,Well-Known,6,Full Service Restaurant,1,114327,34.1219,-118.1913
+Los Angeles,2,Downtown,Well-Known,1,Banquet,5,126075,34.1044,-118.3298
+Los Angeles,5,Suburbs,Recent,4,Banquet,1,91006,33.9048,-118.2074
+Los Angeles,7,Downtown,Developed,3,Banquet,1,64328,33.9496,-118.2199
+San Diego,1,Suburbs,Recent,7,Full Service Restaurant,2,79196,32.7445,-117.0028
+San Francisco,3,Suburbs,Developed,6,Banquet,1,60176,37.9198,-122.4831
+San Diego,6,Suburbs,Developed,5,Full Service Restaurant,4,114132,32.7142,-117.3327
+Los Angeles,6,Downtown,Recent,2,Banquet,3,76379,34.0195,-118.1364
+San Francisco,5,Downtown,Well-Known,9,Banquet,5,139428,37.8809,-122.4024
+San Diego,5,Suburbs,Recent,7,Cafeteria,3,59226,32.8559,-117.1439
+Sacramento,5,Suburbs,Recent,5,Cafeteria,4,84177,38.559,-121.3145
+Los Angeles,3,Downtown,Recent,2,Full Service Restaurant,4,102895,34.094,-118.3407
+Los Angeles,2,Downtown,Recent,2,Cafeteria,1,47582,34.0489,-118.1334
+San Diego,5,Suburbs,Developed,5,Banquet,3,101137,32.6921,-117.331
+San Francisco,5,Downtown,Developed,9,Cafeteria,3,80245,37.7281,-122.3294
+San Francisco,1,Suburbs,Developed,10,Cafeteria,2,51611,37.7753,-122.5774
+Los Angeles,6,Suburbs,Developed,4,Cafeteria,3,66252,33.9292,-118.145
+Los Angeles,2,Downtown,Developed,8,Banquet,3,86396,34.1311,-118.2811
+Los Angeles,6,Suburbs,Recent,9,Cafeteria,2,86196,34.0692,-118.413
+San Francisco,4,Downtown,Well-Known,4,Full Service Restaurant,5,161708,37.8441,-122.3094
+Sacramento,5,Downtown,Well-Known,2,Full Service Restaurant,1,65288,38.5792,-121.6098
+Los Angeles,5,Suburbs,Well-Known,10,Cafeteria,5,111084,34.1815,-118.25
+San Francisco,3,Downtown,Developed,9,Banquet,2,67447,37.709,-122.3776
+San Francisco,7,Suburbs,Developed,7,Cafeteria,1,89202,37.7836,-122.2206
+Los Angeles,6,Downtown,Well-Known,3,Banquet,4,104400,34.0696,-118.3557
+San Diego,5,Downtown,Well-Known,1,Cafeteria,4,64679,32.6539,-117.0769
+Los Angeles,6,Suburbs,Recent,2,Banquet,1,62619,34.1371,-118.122
+Sacramento,1,Suburbs,Developed,4,Full Service Restaurant,1,71148,38.6957,-121.5956
+Los Angeles,1,Downtown,Developed,1,Banquet,3,82082,34.0505,-118.3609
+Los Angeles,1,Downtown,Developed,3,Banquet,3,71183,34.0038,-118.3524
+San Francisco,3,Suburbs,Well-Known,1,Cafeteria,1,28545,37.673,-122.493
+San Francisco,4,Suburbs,Well-Known,1,Full Service Restaurant,4,119677,37.6702,-122.4881
+Sacramento,3,Suburbs,Developed,10,Banquet,2,69859,38.5611,-121.3136
+San Diego,4,Suburbs,Well-Known,1,Cafeteria,3,60870,32.6901,-117.0004
+San Francisco,4,Suburbs,Well-Known,9,Full Service Restaurant,4,129768,37.6519,-122.4006
+Sacramento,3,Suburbs,Recent,4,Banquet,5,77279,38.4702,-121.3745
+San Francisco,3,Suburbs,Developed,1,Full Service Restaurant,2,82346,37.9333,-122.4438
+San Francisco,5,Downtown,Recent,4,Cafeteria,2,85356,37.8025,-122.5122
+Los Angeles,7,Downtown,Developed,3,Banquet,5,106710,34.1353,-118.2571
+Los Angeles,2,Downtown,Recent,5,Cafeteria,1,48515,34.0274,-118.1317
+San Francisco,2,Suburbs,Recent,6,Full Service Restaurant,4,69775,37.7024,-122.2613
+Sacramento,2,Suburbs,Recent,2,Full Service Restaurant,1,95745,38.5522,-121.3147
+San Francisco,4,Downtown,Well-Known,9,Full Service Restaurant,4,111687,37.8453,-122.4927
+Los Angeles,7,Suburbs,Well-Known,6,Cafeteria,1,86035,34.1821,-118.2418
+Los Angeles,1,Suburbs,Developed,2,Cafeteria,1,38674,34.1321,-118.378
+San Francisco,7,Downtown,Well-Known,3,Banquet,4,106932,37.7906,-122.5133
+Sacramento,7,Downtown,Recent,4,Full Service Restaurant,3,123941,38.6221,-121.3926
+San Francisco,6,Downtown,Recent,5,Cafeteria,5,93884,37.7188,-122.3368
+San Diego,7,Suburbs,Well-Known,3,Banquet,2,73063,32.5902,-117.2427
+Los Angeles,1,Suburbs,Recent,5,Banquet,2,64136,34.1341,-118.1173
+Los Angeles,7,Suburbs,Recent,3,Banquet,3,71342,34.1112,-118.0974
+San Francisco,1,Suburbs,Developed,8,Cafeteria,2,56309,37.9139,-122.2995
+San Diego,7,Downtown,Recent,4,Cafeteria,3,85713,32.7584,-117.0607
+San Diego,2,Downtown,Recent,2,Full Service Restaurant,2,93291,32.6409,-117.0916
+Los Angeles,3,Suburbs,Well-Known,10,Full Service Restaurant,4,118533,33.9678,-118.0989
+San Diego,7,Downtown,Developed,3,Banquet,5,97571,32.6377,-117.096
+Los Angeles,1,Suburbs,Developed,2,Cafeteria,3,58881,34.1747,-118.1858
+San Francisco,7,Suburbs,Well-Known,8,Full Service Restaurant,1,130402,37.6574,-122.3441
+Los Angeles,5,Suburbs,Developed,10,Cafeteria,3,77586,34.1822,-118.2193
+San Francisco,1,Downtown,Recent,5,Cafeteria,3,54923,37.7274,-122.3222
+Los Angeles,7,Suburbs,Recent,8,Cafeteria,4,91764,33.9721,-118.0949
+San Francisco,3,Downtown,Recent,2,Cafeteria,1,34823,37.7762,-122.2869
+Los Angeles,5,Downtown,Recent,2,Banquet,5,78949,34.1371,-118.2539
+San Francisco,3,Suburbs,Developed,5,Banquet,2,86482,37.9138,-122.2965
+Sacramento,7,Downtown,Well-Known,6,Banquet,4,149772,38.5332,-121.5957
+Sacramento,5,Suburbs,Developed,5,Full Service Restaurant,1,102515,38.4571,-121.3969
+Sacramento,7,Suburbs,Well-Known,5,Banquet,3,94030,38.4683,-121.6115
+Sacramento,6,Suburbs,Developed,10,Full Service Restaurant,3,114097,38.588,-121.6765
+San Diego,7,Downtown,Recent,6,Banquet,1,93983,32.6609,-117.2629
+Sacramento,1,Downtown,Developed,6,Cafeteria,3,62141,38.6164,-121.3882
+Los Angeles,3,Suburbs,Recent,6,Banquet,4,65272,34.1791,-118.201
+Los Angeles,5,Suburbs,Developed,1,Full Service Restaurant,5,81320,34.1461,-118.365
+San Diego,2,Suburbs,Recent,1,Full Service Restaurant,2,76777,32.7563,-117.3284
+Sacramento,4,Suburbs,Well-Known,6,Cafeteria,5,111350,38.6551,-121.3396
+San Diego,3,Suburbs,Recent,10,Banquet,1,61691,32.585,-117.2314
+Los Angeles,4,Suburbs,Developed,8,Banquet,5,84108,34.1617,-118.3409
+San Diego,4,Suburbs,Developed,9,Cafeteria,2,75663,32.6465,-117.3138
+San Diego,5,Suburbs,Well-Known,10,Cafeteria,2,56817,32.6643,-117.3245
+San Francisco,1,Suburbs,Developed,3,Cafeteria,4,56669,37.7783,-122.218
+San Diego,4,Suburbs,Recent,4,Full Service Restaurant,2,102739,32.7259,-116.9961
+San Diego,4,Suburbs,Well-Known,5,Cafeteria,5,117435,32.8001,-117.0275
+San Diego,1,Suburbs,Well-Known,8,Cafeteria,1,34638,32.7476,-116.9995
+San Francisco,7,Downtown,Well-Known,3,Banquet,3,80888,37.8052,-122.285
+Sacramento,6,Downtown,Developed,2,Cafeteria,1,28351,38.5076,-121.417
+Sacramento,2,Suburbs,Developed,8,Full Service Restaurant,5,73773,38.7145,-121.4385
+San Francisco,7,Downtown,Recent,7,Cafeteria,1,105009,37.7024,-122.4051
+Los Angeles,5,Suburbs,Well-Known,5,Banquet,5,137286,33.9057,-118.1863
+Los Angeles,2,Downtown,Developed,3,Cafeteria,4,82953,33.9738,-118.3315
+San Francisco,5,Downtown,Developed,4,Banquet,3,119951,37.8168,-122.2865
+Sacramento,6,Suburbs,Developed,9,Full Service Restaurant,1,111757,38.714,-121.4321
+Sacramento,7,Downtown,Well-Known,9,Banquet,3,114844,38.5784,-121.6132
+San Diego,3,Downtown,Developed,1,Cafeteria,5,79066,32.8131,-117.1396
+San Diego,3,Suburbs,Recent,7,Cafeteria,2,44429,32.8251,-117.0542
+Los Angeles,4,Downtown,Developed,5,Banquet,2,98012,34.0952,-118.1491
+San Diego,2,Downtown,Developed,7,Full Service Restaurant,5,114035,32.7667,-117.0641
+Los Angeles,1,Suburbs,Well-Known,5,Banquet,5,99834,34.1828,-118.2145
+San Diego,6,Downtown,Developed,4,Full Service Restaurant,2,101484,32.8102,-117.1249
+Sacramento,6,Suburbs,Developed,2,Full Service Restaurant,1,75771,38.7172,-121.5437
+Los Angeles,1,Downtown,Well-Known,4,Full Service Restaurant,4,98721,34.1018,-118.1535
+Los Angeles,6,Suburbs,Developed,6,Full Service Restaurant,5,127482,33.8981,-118.2755
+Sacramento,2,Downtown,Recent,3,Cafeteria,4,68308,38.628,-121.3938
+San Diego,5,Suburbs,Developed,1,Banquet,4,64988,32.6999,-117.3357
+Los Angeles,6,Suburbs,Recent,10,Full Service Restaurant,3,109229,34.1852,-118.2377
+San Diego,6,Suburbs,Developed,5,Full Service Restaurant,3,116183,32.7746,-117.0093
